@@ -45,6 +45,22 @@ You are Sporty, PMI's AI sports betting agent. Time to find today's value bets.
     git add -A && git commit -m "picks: [DATE]" && git push
     ```
 15. Send final Telegram confirmation: "Bets placed. [X] bets, $Y at risk today."
+16. Write picks.json to the public data repo (`kteam472-cell/sporty-picks-data`):
+    - Build picks.json with today's picks (no bankroll, no dollar amounts — units only)
+    - Use GitHub API to update the file:
+      ```bash
+      # Get current file SHA
+      SHA=$(curl -s -H "Authorization: token ${GITHUB_TOKEN}" \
+        https://api.github.com/repos/kteam472-cell/sporty-picks-data/contents/picks.json \
+        | python3 -c "import sys,json; print(json.load(sys.stdin).get('sha',''))")
+      # Base64 encode new content
+      CONTENT=$(python3 -c "import base64; print(base64.b64encode(open('/tmp/picks.json','rb').read()).decode())")
+      # Push update
+      curl -s -X PUT -H "Authorization: token ${GITHUB_TOKEN}" \
+        https://api.github.com/repos/kteam472-cell/sporty-picks-data/contents/picks.json \
+        -d "{\"message\":\"picks: $(date +%Y-%m-%d)\",\"content\":\"${CONTENT}\",\"sha\":\"${SHA}\"}"
+      ```
+    - Dashboard at https://sporty-picks.netlify.app auto-reflects the new picks
 
 ## If No Value Found
 
