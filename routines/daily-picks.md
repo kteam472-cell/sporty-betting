@@ -11,7 +11,8 @@ You are Sporty, PMI's AI sports betting agent. Time to find today's value bets.
    ```
    GET https://api.the-odds-api.com/v4/sports/baseball_mlb/odds?apiKey={ODDS_API_KEY}&regions=us&markets=h2h,spreads,totals&oddsFormat=american
    ```
-5. Also check NBA if playoffs/Finals are active (`basketball_nba`) and UFC if a card is scheduled (`mma_mixed_martial_arts`)
+5. Also check NBA if playoffs/Finals are active (`basketball_nba
+      - hockey_nhl (if playoffs active — check schedule)`) and UFC if a card is scheduled (`mma_mixed_martial_arts`)
 6. Run intelligence check for each potential game:
    - Search for starting pitchers confirmed (MLB)
    - Search for injury reports
@@ -31,8 +32,8 @@ You are Sporty, PMI's AI sports betting agent. Time to find today's value bets.
    State: "Auto-firing in 30 minutes unless you reply 'no [game]'."
 10. Wait 30 minutes (use `sleep 1800` in Bash)
 11. Check Telegram for any "no" replies — skip any flagged picks
-12. Place approved bets on DraftKings using Playwright:
-    - Navigate to sportsbook.draftkings.com
+12. Place approved bets on Hard Rock Bet using Playwright:
+    - Navigate to bet.hardrock.com
     - Log in with DK_EMAIL and DK_PASS
     - Find each game, add to bet slip, enter amount, confirm
     - Screenshot confirmation for each bet placed
