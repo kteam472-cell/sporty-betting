@@ -204,7 +204,7 @@ Log the bet in results-log.md BEFORE placing it. If you're not willing to write 
 2. Identify 1–3 games with edge setups (use checklist above)
 3. For each bet: calculate implied probability → estimate true probability → calculate edge → size via Half-Kelly
 4. Log in results-log.md before placing
-5. Place bet on DraftKings
+5. Place bet on Hard Rock Bet
 6. After settlement: update results-log.md and bankroll.md
 
 ---
