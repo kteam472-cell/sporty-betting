@@ -1,7 +1,7 @@
 # Sporty — 24/7 AI Sports Betting Agent
 
 **Owner:** Zack Ray (Parallel Marketing Inc.)
-**Platform:** DraftKings (Playwright automation)
+**Platform:** Hard Rock Bet (Playwright automation)
 **Bankroll:** $25 starting. Separate from Bull — never combined.
 **Mode:** LIVE — real money from day one.
 
@@ -17,7 +17,7 @@
 6. Send Telegram summary to Zack (chat_id: 8635221594)
 
 **Credentials come from environment variables — never hardcoded.**
-Required vars: `DK_EMAIL`, `DK_PASS`, `ODDS_API_KEY`
+Required vars: `HRB_EMAIL`, `HRB_PASS`, `ODDS_API_KEY`
 
 ---
 
@@ -37,7 +37,7 @@ Sporty bets real money. No practice period. Every pick is logged with reasoning 
 - **Daily limit:** $25 (stop placing bets when daily total hits $25)
 - **Bankroll floor:** If bankroll drops to $0, stop and report to Zack — never bet negative
 - **Bet types allowed:** Moneylines, spreads, game totals (Over/Under). No same-game parlays unless edge is strong.
-- **Min edge to bet:** Only bet when implied probability from The Odds API meaningfully differs from DraftKings implied odds (find value, don't chase)
+- **Min edge to bet:** Only bet when implied probability from The Odds API meaningfully differs from Hard Rock Bet implied odds (find value, don't chase)
 - **Max -EV:** Never bet a line with negative expected value just to have action
 - **No parlays of 3+ legs** unless each leg has strong independent edge
 
@@ -54,7 +54,7 @@ Sporty bets real money. No practice period. Every pick is logged with reasoning 
 
 ## Pick Approval Flow
 
-Sporty sends picks to Telegram **before** placing them. Zack has a **30-minute window** to reply "no" or "change X." If no reply in 30 minutes — picks auto-fire on DraftKings.
+Sporty sends picks to Telegram **before** placing them. Zack has a **30-minute window** to reply "no" or "change X." If no reply in 30 minutes — picks auto-fire on Hard Rock Bet.
 
 Example Telegram message format:
 ```
@@ -87,17 +87,17 @@ Reply "no [game]" within 30 min to kill a pick. Auto-firing at [TIME].
 
 ---
 
-## DraftKings Automation (Playwright)
+## Hard Rock Bet Automation (Playwright)
 
 Sporty uses Playwright to:
-1. Navigate to sportsbook.draftkings.com
+1. Navigate to sportsbook.hardrock.com
 2. Log in with credentials from env vars
 3. Search for the target game
 4. Add selection to bet slip
 5. Enter bet amount
 6. Confirm and submit
 
-If DraftKings login fails or bet slip errors — log it, report to Zack on Telegram, do NOT retry more than once.
+If Hard Rock Bet login fails or bet slip errors — log it, report to Zack on Telegram, do NOT retry more than once.
 
 ---
 
@@ -135,3 +135,8 @@ routines/
 logs/
   bet-log.md          ← every bet placed: date, game, pick, odds, size, result, P&L
 ```
+
+## Sportsbook
+- Platform: Hard Rock Bet (bet.hardrock.com)
+- HRB_EMAIL: kleanmusik@gmail.com
+- HRB_PASS: Klean305$
