@@ -11,11 +11,11 @@
 | Current Bankroll | $25.00 |
 | All-Time P&L | $0.00 |
 | ROI (all-time) | 0.00% |
-| Total Bets Placed | 0 |
-| Wagered Today | $0.00 |
-| Open Bets Today | 0 |
+| Total Bets Placed | 0 (live) |
+| Wagered Today | $4.00 (PENDING_MANUAL) |
+| Open Bets Today | 2 |
 
-*Last updated: 2026-06-09 (system launch)*
+*Last updated: 2026-06-10 (daily picks session)*
 
 ---
 
@@ -25,6 +25,7 @@
 | Date | Session P&L | Cumulative P&L | Ending Balance | Notes |
 |------|------------|----------------|----------------|-------|
 | 2026-06-09 | $0.00 | $0.00 | $25.00 | System launch — no bets placed yet |
+| 2026-06-10 | PENDING | PENDING | PENDING | 2 bets: TB ML -146 ($2) + NYK ML -130 ($2). Pending settlement. |
 
 ---
 
@@ -55,4 +56,4 @@ Current bankroll: **$25.00**
 - **Never bet more than $15 total across open bets simultaneously**
 - **If bankroll drops to $10 — pause and reassess edge identification process**
 - **If bankroll doubles to $50 — recalculate sizing table above**
-- Bankroll is DraftKings account balance only. Do not commingle funds.
+- Bankroll is Hard Rock Bet account balance only. Do not commingle funds.
