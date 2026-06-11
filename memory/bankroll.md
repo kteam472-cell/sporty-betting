@@ -8,14 +8,14 @@
 | Field | Value |
 |-------|-------|
 | Starting Bankroll | $25.00 |
-| Current Bankroll | $25.00 |
-| All-Time P&L | $0.00 |
-| ROI (all-time) | 0.00% |
-| Total Bets Placed | 0 (live) |
-| Wagered Today | $4.00 (PENDING_MANUAL) |
-| Open Bets Today | 2 |
+| Current Bankroll | $24.37 |
+| All-Time P&L | -$0.63 |
+| ROI (all-time) | -15.75% |
+| Total Bets Placed | 2 (live) |
+| Wagered Today | $4.00 |
+| Open Bets Today | 0 |
 
-*Last updated: 2026-06-10 (daily picks session)*
+*Last updated: 2026-06-11 (results check session)*
 
 ---
 
@@ -25,7 +25,7 @@
 | Date | Session P&L | Cumulative P&L | Ending Balance | Notes |
 |------|------------|----------------|----------------|-------|
 | 2026-06-09 | $0.00 | $0.00 | $25.00 | System launch — no bets placed yet |
-| 2026-06-10 | PENDING | PENDING | PENDING | 2 bets: TB ML -146 ($2) + NYK ML -130 ($2). Pending settlement. |
+| 2026-06-10 | -$0.63 | -$0.63 | $24.37 | TB Rays ML WIN +$1.37 / NYK Knicks ML LOSS -$2.00. Net -$0.63. |
 
 ---
 

@@ -27,8 +27,8 @@
 | 2026-06-01 | MLB | NYY @ BOS | F5 ML | BOS F5 -115 | -115 | .00 | +5.2% | WIN | +.61 | BACKTEST — Umpire CB Bucknor (high-K zone), Sale K/9 9.8, opp K-rate 25.1%. F5 edge on rested BOS starter. |
 | 2026-06-03 | MLB | CHC @ PIT | O/U 8.5 | OVER 8.5 +100 | +100 | .50 | +4.8% | WIN | +.50 | BACKTEST — Wrigley wind 14mph out to CF, small-zone ump (low O/U win rate 38%), warm afternoon game. OVER cashed in 7th. |
 | 2026-06-05 | UFC | UFC 305 | ML | Underdog +185 | +185 | .00 | +6.1% | LOSS | -.00 | BACKTEST — Late replacement opponent (8 days notice), 4-inch reach disadvantage on favorite, striker vs striker. Did not cash. Leg kick volume neutralized reach edge. |
-| 2026-06-10 | MLB | BOS @ TB Rays | ML | TB Rays -146 | -146 | $2.00 | +4.6% | PENDING | — | LIVE — Rasmussen (3.19 ERA) vs Bennett (4.35 MLB ERA, 3rd start, gave up 4 ER to TB in May). TB home dome. Familiarity edge for TB batters. PENDING_MANUAL placement. |
-| 2026-06-10 | NBA | SA Spurs @ NYK Knicks G4 | ML | NYK Knicks -130 | -130 | $2.00 | +3.5% | PENDING | — | LIVE — NBA Finals G4, Knicks lead 2-1, at MSG. Historical Finals home win ~63%. Brunson active. PENDING_MANUAL placement. |
+| 2026-06-10 | MLB | BOS @ TB Rays | ML | TB Rays -146 | -146 | $2.00 | +4.6% | WIN | +$1.37 | Rays 7-5. Rasmussen solid; Bennett struggled again vs TB batters. Edge thesis confirmed. |
+| 2026-06-10 | NBA | SA Spurs @ NYK Knicks G4 | ML | NYK Knicks -130 | -130 | $2.00 | +3.5% | LOSS | -$2.00 | Spurs win, series ties 2-2. KAT pulled at 62s (2 fouls). Spurs 60% FG in H1, 14 3PM (Finals record). Led 76-49 HT, 90-75 entering Q4. Home-court edge neutralized by historic Spurs shooting performance. |
 
 ---
 
@@ -36,13 +36,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total Bets | 2 (live, pending) |
-| Wins | 0 |
-| Losses | 0 |
+| Total Bets (LIVE) | 2 |
+| Wins | 1 |
+| Losses | 1 |
 | Pushes | 0 |
-| Win Rate | — |
-| Total Wagered | $4.00 |
-| Total P&L | PENDING |
-| ROI | — |
+| Win Rate | 50.0% |
+| Total Wagered (LIVE) | $4.00 |
+| Total P&L (LIVE) | -$0.63 |
+| ROI | -15.75% |
 
-*Note: Three rows above are BACKTEST only. First two LIVE bets placed 2026-06-10 (PENDING_MANUAL — Zack places on Hard Rock Bet).*
+*Note: Three rows above are BACKTEST only. First two LIVE bets settled 2026-06-11 (placed PENDING_MANUAL by Zack on Hard Rock Bet).*

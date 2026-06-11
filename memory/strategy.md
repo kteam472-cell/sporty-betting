@@ -209,4 +209,19 @@ Log the bet in results-log.md BEFORE placing it. If you're not willing to write 
 
 ---
 
+---
+
+## SECTION 8 — LESSONS LEARNED (live betting history)
+
+### 2026-06-10 — NBA Finals G4 Loss (NYK ML -130)
+- **What happened:** Knicks were 2-1 series leaders at home (MSG). Historical Finals home win rate ~63%. Karl-Anthony Towns fouled out 62 seconds in after two controversial calls. Spurs shot 60% from the field in H1, made 14 3-pointers (Finals record), led 76-49 at halftime. Knicks cut it to 15 in Q3 but Spurs held on.
+- **Edge miss:** Home-court and series-lead edge was real, but did not account for in-game injury/foul-out risk. KAT losing early effectively removed the Knicks' best interior defender/scorer before the game began. Key player availability (foul trouble = de facto absence) can negate home-court edge entirely.
+- **New rule:** For NBA Finals picks, check not just injury reports but also early-foul-trouble risk for high-usage players. Consider buying reduced juice via alternate lines for Series home-court spots — the underlying edge is real but any individual game has high variance.
+
+### 2026-06-10 — MLB TB Rays ML WIN (+$1.37)
+- **What worked:** Pitcher matchup edge held. Bennett (4.35 ERA, 3rd MLB start) gave up runs to TB batters who had prior film on him. Rasmussen was solid. Edge thesis confirmed cleanly.
+- **Reinforce:** Pitcher ERA and familiarity edges are repeatable. Continue targeting opponents facing young/inexperienced starters on limited outings.
+
+---
+
 *Sources: OddsShark, Sports Insights, Action Network, BetStamp, Covers.com, SportsInsights.com, academic research via Bet Labs / QuantifiedStrategies.com*
