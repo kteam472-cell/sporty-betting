@@ -12,10 +12,10 @@
 | All-Time P&L | -$0.63 |
 | ROI (all-time) | -15.75% |
 | Total Bets Placed | 2 (live) |
-| Wagered Today | $4.00 |
-| Open Bets Today | 0 |
+| Wagered Today | $1.50 (PENDING_MANUAL) |
+| Open Bets Today | 1 |
 
-*Last updated: 2026-06-11 (results check session)*
+*Last updated: 2026-06-11 (daily picks session)*
 
 ---
 
