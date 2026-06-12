@@ -11,11 +11,11 @@
 | Current Bankroll | $22.87 |
 | All-Time P&L | -$2.13 |
 | ROI (all-time) | -38.7% |
-| Total Bets Placed | 3 (live) |
-| Wagered Today | $1.50 (SETTLED) |
-| Open Bets Today | 0 |
+| Total Bets Placed | 3 (live) + 2 pending |
+| Wagered Today | $7.00 (PENDING_MANUAL) |
+| Open Bets Today | 2 |
 
-*Last updated: 2026-06-12 (results check)*
+*Last updated: 2026-06-12 (daily picks — 2 PENDING_MANUAL bets on PHI @ MIL)*
 
 ---
 
