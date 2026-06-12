@@ -222,6 +222,11 @@ Log the bet in results-log.md BEFORE placing it. If you're not willing to write 
 - **What worked:** Pitcher matchup edge held. Bennett (4.35 ERA, 3rd MLB start) gave up runs to TB batters who had prior film on him. Rasmussen was solid. Edge thesis confirmed cleanly.
 - **Reinforce:** Pitcher ERA and familiarity edges are repeatable. Continue targeting opponents facing young/inexperienced starters on limited outings.
 
+### 2026-06-11 — MLB STL Cardinals ML LOSS (-$1.50)
+- **What happened:** Cardinals lost 5-4 to the Mets. Day-of Mets starter was Hunter Dobbins — NOT Sean Scott (2.50 ERA) who was the basis of the edge analysis. Cardinals' win streak ended at 5. Mets held on to avoid the sweep.
+- **Edge miss:** Pick was scouted against Scott. Dobbins is a different pitcher with different tendencies. The walk-rate and ERA edge no longer applied. The bet should have been reassessed when Dobbins was confirmed as the starter.
+- **New rule (CRITICAL): Confirm the day-of starting pitcher for BOTH teams before placing any MLB bet. If either starter differs from who was scouted, re-run the entire edge analysis or skip the bet. Never let a bet go live based on a pitcher who isn't actually starting.**
+
 ---
 
 *Sources: OddsShark, Sports Insights, Action Network, BetStamp, Covers.com, SportsInsights.com, academic research via Bet Labs / QuantifiedStrategies.com*

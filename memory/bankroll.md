@@ -8,14 +8,14 @@
 | Field | Value |
 |-------|-------|
 | Starting Bankroll | $25.00 |
-| Current Bankroll | $24.37 |
-| All-Time P&L | -$0.63 |
-| ROI (all-time) | -15.75% |
-| Total Bets Placed | 2 (live) |
-| Wagered Today | $1.50 (PENDING_MANUAL) |
-| Open Bets Today | 1 |
+| Current Bankroll | $22.87 |
+| All-Time P&L | -$2.13 |
+| ROI (all-time) | -38.7% |
+| Total Bets Placed | 3 (live) |
+| Wagered Today | $1.50 (SETTLED) |
+| Open Bets Today | 0 |
 
-*Last updated: 2026-06-11 (daily picks session)*
+*Last updated: 2026-06-12 (results check)*
 
 ---
 
@@ -26,6 +26,7 @@
 |------|------------|----------------|----------------|-------|
 | 2026-06-09 | $0.00 | $0.00 | $25.00 | System launch — no bets placed yet |
 | 2026-06-10 | -$0.63 | -$0.63 | $24.37 | TB Rays ML WIN +$1.37 / NYK Knicks ML LOSS -$2.00. Net -$0.63. |
+| 2026-06-11 | -$1.50 | -$2.13 | $22.87 | STL Cardinals ML LOSS -$1.50. Mets won 5-4, wrong pitcher scouted. |
 
 ---
 

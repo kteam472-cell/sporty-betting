@@ -29,6 +29,7 @@
 | 2026-06-05 | UFC | UFC 305 | ML | Underdog +185 | +185 | .00 | +6.1% | LOSS | -.00 | BACKTEST — Late replacement opponent (8 days notice), 4-inch reach disadvantage on favorite, striker vs striker. Did not cash. Leg kick volume neutralized reach edge. |
 | 2026-06-10 | MLB | BOS @ TB Rays | ML | TB Rays -146 | -146 | $2.00 | +4.6% | WIN | +$1.37 | Rays 7-5. Rasmussen solid; Bennett struggled again vs TB batters. Edge thesis confirmed. |
 | 2026-06-10 | NBA | SA Spurs @ NYK Knicks G4 | ML | NYK Knicks -130 | -130 | $2.00 | +3.5% | LOSS | -$2.00 | Spurs win, series ties 2-2. KAT pulled at 62s (2 fouls). Spurs 60% FG in H1, 14 3PM (Finals record). Led 76-49 HT, 90-75 entering Q4. Home-court edge neutralized by historic Spurs shooting performance. |
+| 2026-06-11 | MLB | STL Cardinals @ NYM Mets | ML | Cardinals ML +124 | +124 | $1.50 | +5.4% | LOSS | -$1.50 | Mets won 5-4. Day-of Mets starter was Hunter Dobbins (not Scott as scouted). Cardinals' 5-game win streak snapped. Edge analysis was on wrong pitcher — confirmed-starter rule critical. |
 
 ---
 
@@ -36,13 +37,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total Bets (LIVE) | 2 |
+| Total Bets (LIVE) | 3 |
 | Wins | 1 |
-| Losses | 1 |
+| Losses | 2 |
 | Pushes | 0 |
-| Win Rate | 50.0% |
-| Total Wagered (LIVE) | $4.00 |
-| Total P&L (LIVE) | -$0.63 |
-| ROI | -15.75% |
+| Win Rate | 33.3% |
+| Total Wagered (LIVE) | $5.50 |
+| Total P&L (LIVE) | -$2.13 |
+| ROI | -38.7% |
 
-*Note: Three rows above are BACKTEST only. First two LIVE bets settled 2026-06-11 (placed PENDING_MANUAL by Zack on Hard Rock Bet).*
+*Note: Three rows above are BACKTEST only. LIVE bets: Rays ML WIN 2026-06-10, Knicks ML LOSS 2026-06-10, Cardinals ML LOSS 2026-06-11 (all placed PENDING_MANUAL by Zack on Hard Rock Bet).*
