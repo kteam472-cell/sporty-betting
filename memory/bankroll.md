@@ -12,10 +12,10 @@
 | All-Time P&L | +$4.23 |
 | ROI (all-time) | +33.8% |
 | Total Bets Placed | 5 (live) |
-| Wagered Today | $7.00 |
-| Open Bets Today | 0 |
+| Wagered Today | $2.00 |
+| Open Bets Today | 1 |
 
-*Last updated: 2026-06-12 (results check — both PHI@MIL bets WIN. Under 7.5 +$2.88, Brewers -1.5 +$3.48)*
+*Last updated: 2026-06-13 (daily picks — Brewers ML -142, $2.00 PENDING_MANUAL. Telegram blocked; pick via GitHub commit.)*
 
 ---
 
