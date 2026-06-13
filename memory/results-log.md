@@ -30,6 +30,8 @@
 | 2026-06-10 | MLB | BOS @ TB Rays | ML | TB Rays -146 | -146 | $2.00 | +4.6% | WIN | +$1.37 | Rays 7-5. Rasmussen solid; Bennett struggled again vs TB batters. Edge thesis confirmed. |
 | 2026-06-10 | NBA | SA Spurs @ NYK Knicks G4 | ML | NYK Knicks -130 | -130 | $2.00 | +3.5% | LOSS | -$2.00 | Spurs win, series ties 2-2. KAT pulled at 62s (2 fouls). Spurs 60% FG in H1, 14 3PM (Finals record). Led 76-49 HT, 90-75 entering Q4. Home-court edge neutralized by historic Spurs shooting performance. |
 | 2026-06-11 | MLB | STL Cardinals @ NYM Mets | ML | Cardinals ML +124 | +124 | $1.50 | +5.4% | LOSS | -$1.50 | Mets won 5-4. Day-of Mets starter was Hunter Dobbins (not Scott as scouted). Cardinals' 5-game win streak snapped. Edge analysis was on wrong pitcher — confirmed-starter rule critical. |
+| 2026-06-12 | MLB | PHI Phillies @ MIL Brewers | O/U | Under 7.5 | -104 | $3.00 | +11.0% | WIN | +$2.88 | Brewers 6, Phillies 0. Total = 6 runs, well under 7.5. Misiorowski dominant as expected. Edge thesis confirmed — elite ace at near-even money. |
+| 2026-06-12 | MLB | PHI Phillies @ MIL Brewers | Spread | Brewers -1.5 Run Line | -115 | $4.00 | +15.5% | WIN | +$3.48 | Brewers 6, Phillies 0. Won by 6 runs, covered -1.5 easily. Run line at -115 vs ML at -250 was exceptional value. Misiorowski shutout performance. |
 
 ---
 
@@ -37,13 +39,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total Bets (LIVE) | 3 |
-| Wins | 1 |
+| Total Bets (LIVE) | 5 |
+| Wins | 3 |
 | Losses | 2 |
 | Pushes | 0 |
-| Win Rate | 33.3% |
-| Total Wagered (LIVE) | $5.50 |
-| Total P&L (LIVE) | -$2.13 |
-| ROI | -38.7% |
+| Win Rate | 60.0% |
+| Total Wagered (LIVE) | $12.50 |
+| Total P&L (LIVE) | +$4.23 |
+| ROI | +33.8% |
 
-*Note: Three rows above are BACKTEST only. LIVE bets: Rays ML WIN 2026-06-10, Knicks ML LOSS 2026-06-10, Cardinals ML LOSS 2026-06-11 (all placed PENDING_MANUAL by Zack on Hard Rock Bet).*
+*Note: Three rows above are BACKTEST only. LIVE bets: Rays ML WIN 2026-06-10, Knicks ML LOSS 2026-06-10, Cardinals ML LOSS 2026-06-11, MIL Under 7.5 WIN 2026-06-12, Brewers -1.5 WIN 2026-06-12 (all placed PENDING_MANUAL by Zack on Hard Rock Bet).*

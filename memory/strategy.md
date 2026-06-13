@@ -222,6 +222,12 @@ Log the bet in results-log.md BEFORE placing it. If you're not willing to write 
 - **What worked:** Pitcher matchup edge held. Bennett (4.35 ERA, 3rd MLB start) gave up runs to TB batters who had prior film on him. Rasmussen was solid. Edge thesis confirmed cleanly.
 - **Reinforce:** Pitcher ERA and familiarity edges are repeatable. Continue targeting opponents facing young/inexperienced starters on limited outings.
 
+### 2026-06-12 — MLB PHI@MIL Double Win (+$6.36)
+- **What worked:** Both bets cashed cleanly. Misiorowski (7-2, 1.50 ERA, elite K%) delivered a shutout vs. Phillies (Brewers 6, Phillies 0). The Under 7.5 hit with 6 total runs. The -1.5 run line covered by 6 runs.
+- **Key validation:** Run line at -115 vs. heavy favorite ML at -250 was the right call. $4.00 at -115 returned $3.48 win. Taking the ML at -250 would have returned only $1.60 on the same stake. For strong favorites with elite starters, the run line is consistently better EV.
+- **Starter confirmation worked:** Misiorowski was confirmed as the day-of starter and he started — the confirmed-starter rule held and protected the pick.
+- **Reinforce:** When an elite ace (sub-2.00 ERA, top-5% K%) goes against a struggling opponent starter (6+ ERA), both the Under AND the run line are viable plays that can compound returns when both hit.
+
 ### 2026-06-11 — MLB STL Cardinals ML LOSS (-$1.50)
 - **What happened:** Cardinals lost 5-4 to the Mets. Day-of Mets starter was Hunter Dobbins — NOT Sean Scott (2.50 ERA) who was the basis of the edge analysis. Cardinals' win streak ended at 5. Mets held on to avoid the sweep.
 - **Edge miss:** Pick was scouted against Scott. Dobbins is a different pitcher with different tendencies. The walk-rate and ERA edge no longer applied. The bet should have been reassessed when Dobbins was confirmed as the starter.

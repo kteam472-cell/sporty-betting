@@ -8,14 +8,14 @@
 | Field | Value |
 |-------|-------|
 | Starting Bankroll | $25.00 |
-| Current Bankroll | $22.87 |
-| All-Time P&L | -$2.13 |
-| ROI (all-time) | -38.7% |
-| Total Bets Placed | 3 (live) + 2 pending |
-| Wagered Today | $7.00 (PENDING_MANUAL) |
-| Open Bets Today | 2 |
+| Current Bankroll | $29.23 |
+| All-Time P&L | +$4.23 |
+| ROI (all-time) | +33.8% |
+| Total Bets Placed | 5 (live) |
+| Wagered Today | $7.00 |
+| Open Bets Today | 0 |
 
-*Last updated: 2026-06-12 (daily picks — 2 PENDING_MANUAL bets on PHI @ MIL)*
+*Last updated: 2026-06-12 (results check — both PHI@MIL bets WIN. Under 7.5 +$2.88, Brewers -1.5 +$3.48)*
 
 ---
 
@@ -27,6 +27,7 @@
 | 2026-06-09 | $0.00 | $0.00 | $25.00 | System launch — no bets placed yet |
 | 2026-06-10 | -$0.63 | -$0.63 | $24.37 | TB Rays ML WIN +$1.37 / NYK Knicks ML LOSS -$2.00. Net -$0.63. |
 | 2026-06-11 | -$1.50 | -$2.13 | $22.87 | STL Cardinals ML LOSS -$1.50. Mets won 5-4, wrong pitcher scouted. |
+| 2026-06-12 | +$6.36 | +$4.23 | $29.23 | PHI@MIL Under 7.5 WIN +$2.88, Brewers -1.5 WIN +$3.48. Misiorowski dominated. |
 
 ---
 
@@ -34,20 +35,20 @@
 
 *Recalculate when bankroll changes by more than $5*
 
-Current bankroll: **$25.00**
+Current bankroll: **$29.23**
 
 | Estimated Edge | Odds | Half-Kelly Bet | Capped? |
 |---------------|------|----------------|---------|
-| 3% | -110 | $0.72 | No |
-| 5% | -110 | $1.20 | No |
-| 5% | +120 | $0.83 | No |
-| 8% | -110 | $1.93 | No |
-| 10% | -110 | $2.40 | No |
-| 10% | +150 | $1.67 | No |
-| 15% | -110 | $3.61 | No |
-| 20% | -110 | $4.81 | No |
-| 30% | -110 | $7.22 | No |
-| 40% | -110 | $9.62 | No |
+| 3% | -110 | $0.84 | No |
+| 5% | -110 | $1.40 | No |
+| 5% | +120 | $0.97 | No |
+| 8% | -110 | $2.25 | No |
+| 10% | -110 | $2.80 | No |
+| 10% | +150 | $1.95 | No |
+| 15% | -110 | $4.20 | No |
+| 20% | -110 | $5.60 | No |
+| 30% | -110 | $8.41 | No |
+| 40% | -110 | $10.00 | YES (cap) |
 | 50%+ | any | Cap at $10.00 | YES |
 
 ---
