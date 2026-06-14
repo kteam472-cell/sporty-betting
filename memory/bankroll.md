@@ -12,10 +12,10 @@
 | All-Time P&L | +$2.23 |
 | ROI (all-time) | +15.4% |
 | Total Bets Placed | 6 (live) |
-| Wagered Today | $0.00 |
-| Open Bets Today | 0 |
+| Wagered Today | $4.00 |
+| Open Bets Today | 2 |
 
-*Last updated: 2026-06-14 (results check — Brewers ML LOSS -$2.00. Phillies 8, Brewers 5.)*
+*Last updated: 2026-06-14 (daily picks — 2 bets placed PENDING_MANUAL: Marlins ML +140 $2, Cardinals ML ~+105 $2. Total at risk $4.00.)*
 
 ---
 
