@@ -8,14 +8,14 @@
 | Field | Value |
 |-------|-------|
 | Starting Bankroll | $25.00 |
-| Current Bankroll | $29.23 |
-| All-Time P&L | +$4.23 |
-| ROI (all-time) | +33.8% |
-| Total Bets Placed | 5 (live) |
-| Wagered Today | $2.00 |
-| Open Bets Today | 1 |
+| Current Bankroll | $27.23 |
+| All-Time P&L | +$2.23 |
+| ROI (all-time) | +15.4% |
+| Total Bets Placed | 6 (live) |
+| Wagered Today | $0.00 |
+| Open Bets Today | 0 |
 
-*Last updated: 2026-06-13 (daily picks — Brewers ML -142, $2.00 PENDING_MANUAL. Telegram blocked; pick via GitHub commit.)*
+*Last updated: 2026-06-14 (results check — Brewers ML LOSS -$2.00. Phillies 8, Brewers 5.)*
 
 ---
 
@@ -28,6 +28,7 @@
 | 2026-06-10 | -$0.63 | -$0.63 | $24.37 | TB Rays ML WIN +$1.37 / NYK Knicks ML LOSS -$2.00. Net -$0.63. |
 | 2026-06-11 | -$1.50 | -$2.13 | $22.87 | STL Cardinals ML LOSS -$1.50. Mets won 5-4, wrong pitcher scouted. |
 | 2026-06-12 | +$6.36 | +$4.23 | $29.23 | PHI@MIL Under 7.5 WIN +$2.88, Brewers -1.5 WIN +$3.48. Misiorowski dominated. |
+| 2026-06-13 | -$2.00 | +$2.23 | $27.23 | Brewers ML LOSS -$2.00. Phillies won 8-5. Drohan didn't hold despite quality ERA metrics. |
 
 ---
 

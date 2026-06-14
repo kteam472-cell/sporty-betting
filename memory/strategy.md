@@ -222,6 +222,11 @@ Log the bet in results-log.md BEFORE placing it. If you're not willing to write 
 - **What worked:** Pitcher matchup edge held. Bennett (4.35 ERA, 3rd MLB start) gave up runs to TB batters who had prior film on him. Rasmussen was solid. Edge thesis confirmed cleanly.
 - **Reinforce:** Pitcher ERA and familiarity edges are repeatable. Continue targeting opponents facing young/inexperienced starters on limited outings.
 
+### 2026-06-13 — MLB PHI@MIL Brewers ML LOSS (-$2.00)
+- **What happened:** Phillies won 8-5. Drohan (3-1, 3.11 ERA) gave up runs despite strong metrics; Nola (3-4, 5.86 ERA) allowed only 5 runs. Brewers had won the series' first two games convincingly; Phillies bounced back in Game 3.
+- **Edge miss:** ERA and K/9 metrics on Drohan were real, but the Phillies offense is capable of big run games regardless of opposing pitcher quality. Series context matters — opponent teams often make adjustments after consecutive blowout losses. This is normal variance on a +5.3% edge bet.
+- **New rule:** When betting in a series (3+ games), factor in opponent's "bounce-back" motivation after consecutive losses. If a team has been shut out or blown out 2 games in a row, their offensive effort in the next game may be elevated beyond what ERA metrics suggest. Consider reducing stake or passing on the same opponent in Game 3 of a series sweep attempt.
+
 ### 2026-06-12 — MLB PHI@MIL Double Win (+$6.36)
 - **What worked:** Both bets cashed cleanly. Misiorowski (7-2, 1.50 ERA, elite K%) delivered a shutout vs. Phillies (Brewers 6, Phillies 0). The Under 7.5 hit with 6 total runs. The -1.5 run line covered by 6 runs.
 - **Key validation:** Run line at -115 vs. heavy favorite ML at -250 was the right call. $4.00 at -115 returned $3.48 win. Taking the ML at -250 would have returned only $1.60 on the same stake. For strong favorites with elite starters, the run line is consistently better EV.

@@ -32,6 +32,7 @@
 | 2026-06-11 | MLB | STL Cardinals @ NYM Mets | ML | Cardinals ML +124 | +124 | $1.50 | +5.4% | LOSS | -$1.50 | Mets won 5-4. Day-of Mets starter was Hunter Dobbins (not Scott as scouted). Cardinals' 5-game win streak snapped. Edge analysis was on wrong pitcher — confirmed-starter rule critical. |
 | 2026-06-12 | MLB | PHI Phillies @ MIL Brewers | O/U | Under 7.5 | -104 | $3.00 | +11.0% | WIN | +$2.88 | Brewers 6, Phillies 0. Total = 6 runs, well under 7.5. Misiorowski dominant as expected. Edge thesis confirmed — elite ace at near-even money. |
 | 2026-06-12 | MLB | PHI Phillies @ MIL Brewers | Spread | Brewers -1.5 Run Line | -115 | $4.00 | +15.5% | WIN | +$3.48 | Brewers 6, Phillies 0. Won by 6 runs, covered -1.5 easily. Run line at -115 vs ML at -250 was exceptional value. Misiorowski shutout performance. |
+| 2026-06-13 | MLB | PHI Phillies @ MIL Brewers | ML | Brewers ML | -142 | $2.00 | +5.3% | LOSS | -$2.00 | Phillies won 8-5. Drohan (3-1, 3.11 ERA) gave up runs despite quality metrics. Phillies scored 8 runs. PENDING_MANUAL — placed by Zack on HRB. |
 
 ---
 
@@ -39,13 +40,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total Bets (LIVE) | 5 |
+| Total Bets (LIVE) | 6 |
 | Wins | 3 |
-| Losses | 2 |
+| Losses | 3 |
 | Pushes | 0 |
-| Win Rate | 60.0% |
-| Total Wagered (LIVE) | $12.50 |
-| Total P&L (LIVE) | +$4.23 |
-| ROI | +33.8% |
+| Win Rate | 50.0% |
+| Total Wagered (LIVE) | $14.50 |
+| Total P&L (LIVE) | +$2.23 |
+| ROI | +15.4% |
 
-*Note: Three rows above are BACKTEST only. LIVE bets: Rays ML WIN 2026-06-10, Knicks ML LOSS 2026-06-10, Cardinals ML LOSS 2026-06-11, MIL Under 7.5 WIN 2026-06-12, Brewers -1.5 WIN 2026-06-12 (all placed PENDING_MANUAL by Zack on Hard Rock Bet).*
+*Note: Three rows above are BACKTEST only. LIVE bets: Rays ML WIN 2026-06-10, Knicks ML LOSS 2026-06-10, Cardinals ML LOSS 2026-06-11, MIL Under 7.5 WIN 2026-06-12, Brewers -1.5 WIN 2026-06-12, Brewers ML LOSS 2026-06-13 (all placed PENDING_MANUAL by Zack on Hard Rock Bet).*
