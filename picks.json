@@ -1,0 +1,32 @@
+{
+  "date": "2026-06-15",
+  "generated_at": "2026-06-15T14:10:00Z",
+  "picks": [
+    {
+      "sport": "MLB",
+      "game": "NYM Mets @ CIN Reds",
+      "time": "7:10 PM ET",
+      "pick": "Reds ML",
+      "odds": -145,
+      "units": 0.2,
+      "edge_pct": 8.7,
+      "confidence": "HIGH",
+      "reasoning": "Chase Burns (1.96 ERA, 10.1 K/9, 7-1) vs Tobias Myers (emergency Triple-A recall, 3rd start of season, 4.05 ERA reliever). Mets rank 28th in wOBA vs RHP. True probability estimated at 65% vs 56.3% fair-value implied. Half-Kelly sizing."
+    },
+    {
+      "sport": "MLB",
+      "game": "COL Rockies @ CHC Cubs",
+      "time": "8:05 PM ET",
+      "pick": "OVER 9",
+      "odds": -124,
+      "units": 0.2,
+      "edge_pct": 5.6,
+      "confidence": "MEDIUM",
+      "reasoning": "Michael Lorenzen (7.54 ERA, 2-8) vs Shota Imanaga (4.44 ERA). Wrigley Field wind: 11 mph out to left-center (OVER trigger per strategy rules). 50% more HR forecast. Two weak-to-poor starters in hitter-friendly conditions. True probability estimated at 61% vs 55.4% implied."
+    }
+  ],
+  "bankroll_units": 28.03,
+  "total_units_at_risk": 0.4,
+  "status": "PENDING_MANUAL",
+  "note": "Telegram API blocked by egress policy. Zack to place manually on Hard Rock Bet."
+}

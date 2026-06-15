@@ -11,11 +11,11 @@
 | Current Bankroll | $28.03 |
 | All-Time P&L | +$3.03 |
 | ROI (all-time) | +16.4% |
-| Total Bets Placed | 8 (live) |
-| Wagered Today | $0.00 |
-| Open Bets Today | 0 |
+| Total Bets Placed | 8 (live) + 2 pending |
+| Wagered Today | $4.00 (2 PENDING_MANUAL bets) |
+| Open Bets Today | 2 |
 
-*Last updated: 2026-06-15 (results check — Marlins ML WIN +$2.80, Cardinals ML LOSS -$2.00. Net today +$0.80. Bankroll $27.23 → $28.03.)*
+*Last updated: 2026-06-15 (daily picks — CIN ML -145 $2 + CHC/COL OVER 9 -124 $2. Telegram blocked by egress policy — picks logged to GitHub for Zack to place manually on HRB.)*
 
 ---
 
