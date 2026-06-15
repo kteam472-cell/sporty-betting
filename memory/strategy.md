@@ -222,6 +222,15 @@ Log the bet in results-log.md BEFORE placing it. If you're not willing to write 
 - **What worked:** Pitcher matchup edge held. Bennett (4.35 ERA, 3rd MLB start) gave up runs to TB batters who had prior film on him. Rasmussen was solid. Edge thesis confirmed cleanly.
 - **Reinforce:** Pitcher ERA and familiarity edges are repeatable. Continue targeting opponents facing young/inexperienced starters on limited outings.
 
+### 2026-06-14 — MLB MIA@PIT Marlins ML WIN (+$2.80)
+- **What worked:** Meyer (7-0) vs Skenes (6-6, 0-4 in last 6 starts). Nearly identical ERAs but market priced Pirates -166 / Marlins +140 (62.4% vs 41.7% implied). Marlins' true probability was closer to 46–47% — that's a +4.8% edge. Pick hit, Marlins 4-2.
+- **Key validation:** When two elite starters have comparable ERA but opposite win-loss records (one on a skid, one on a streak), the market over-adjusts toward win-loss record. ERA and K-rate are more predictive; recent win-loss record for pitchers is highly luck-dependent (run support). **Rule reinforced:** Chase ERA/strikeout edge over surface win-loss record when market creates a +5 or more point spread on equivalent pitchers.
+
+### 2026-06-14 — MLB STL@MIN Cardinals ML LOSS (-$2.00)
+- **What happened:** Cardinals 4-3 going into 8th, then Twins rallied. Kreidler RBI double off Cardinals reliever Soriano (3-1) scored tying and winning run. Cardinals lost 5-4.
+- **Edge miss:** Cardinals had better SP (McGreevy 2.99 ERA vs Bradley 4.02), bullpen SIERA advantage (3.38 vs 4.51), and offensive wRC+ edge. But the Twins lineup executed in the clutch and the Cardinals bullpen cracked in the 8th — SIERA is an average measure, not a guarantee. The cardinals were also playing their 3rd rubber game in the series, a spot where opponent "resilience" matters.
+- **New rule:** Bullpen SIERA edge is real but weakens in late-game, high-leverage situations — especially in series rubber games where both bullpens may be depleted. When betting rubber-game underdogs based primarily on bullpen edge, reduce stake by 0.5× compared to a standalone game edge.
+
 ### 2026-06-13 — MLB PHI@MIL Brewers ML LOSS (-$2.00)
 - **What happened:** Phillies won 8-5. Drohan (3-1, 3.11 ERA) gave up runs despite strong metrics; Nola (3-4, 5.86 ERA) allowed only 5 runs. Brewers had won the series' first two games convincingly; Phillies bounced back in Game 3.
 - **Edge miss:** ERA and K/9 metrics on Drohan were real, but the Phillies offense is capable of big run games regardless of opposing pitcher quality. Series context matters — opponent teams often make adjustments after consecutive blowout losses. This is normal variance on a +5.3% edge bet.

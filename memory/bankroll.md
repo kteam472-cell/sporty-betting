@@ -8,14 +8,14 @@
 | Field | Value |
 |-------|-------|
 | Starting Bankroll | $25.00 |
-| Current Bankroll | $27.23 |
-| All-Time P&L | +$2.23 |
-| ROI (all-time) | +15.4% |
-| Total Bets Placed | 6 (live) |
-| Wagered Today | $4.00 |
-| Open Bets Today | 2 |
+| Current Bankroll | $28.03 |
+| All-Time P&L | +$3.03 |
+| ROI (all-time) | +16.4% |
+| Total Bets Placed | 8 (live) |
+| Wagered Today | $0.00 |
+| Open Bets Today | 0 |
 
-*Last updated: 2026-06-14 (daily picks — 2 bets placed PENDING_MANUAL: Marlins ML +140 $2, Cardinals ML ~+105 $2. Total at risk $4.00.)*
+*Last updated: 2026-06-15 (results check — Marlins ML WIN +$2.80, Cardinals ML LOSS -$2.00. Net today +$0.80. Bankroll $27.23 → $28.03.)*
 
 ---
 
@@ -29,6 +29,7 @@
 | 2026-06-11 | -$1.50 | -$2.13 | $22.87 | STL Cardinals ML LOSS -$1.50. Mets won 5-4, wrong pitcher scouted. |
 | 2026-06-12 | +$6.36 | +$4.23 | $29.23 | PHI@MIL Under 7.5 WIN +$2.88, Brewers -1.5 WIN +$3.48. Misiorowski dominated. |
 | 2026-06-13 | -$2.00 | +$2.23 | $27.23 | Brewers ML LOSS -$2.00. Phillies won 8-5. Drohan didn't hold despite quality ERA metrics. |
+| 2026-06-14 | +$0.80 | +$3.03 | $28.03 | Marlins ML WIN +$2.80 (Marlins 4-2 vs Pirates, Meyer 7-0 masterclass). Cardinals ML LOSS -$2.00 (Twins 5-4, Kreidler walk-off RBI double in 8th). |
 
 ---
 

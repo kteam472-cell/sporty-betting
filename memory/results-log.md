@@ -33,6 +33,8 @@
 | 2026-06-12 | MLB | PHI Phillies @ MIL Brewers | O/U | Under 7.5 | -104 | $3.00 | +11.0% | WIN | +$2.88 | Brewers 6, Phillies 0. Total = 6 runs, well under 7.5. Misiorowski dominant as expected. Edge thesis confirmed — elite ace at near-even money. |
 | 2026-06-12 | MLB | PHI Phillies @ MIL Brewers | Spread | Brewers -1.5 Run Line | -115 | $4.00 | +15.5% | WIN | +$3.48 | Brewers 6, Phillies 0. Won by 6 runs, covered -1.5 easily. Run line at -115 vs ML at -250 was exceptional value. Misiorowski shutout performance. |
 | 2026-06-13 | MLB | PHI Phillies @ MIL Brewers | ML | Brewers ML | -142 | $2.00 | +5.3% | LOSS | -$2.00 | Phillies won 8-5. Drohan (3-1, 3.11 ERA) gave up runs despite quality metrics. Phillies scored 8 runs. PENDING_MANUAL — placed by Zack on HRB. |
+| 2026-06-14 | MLB | MIA Marlins @ PIT Pirates | ML | Marlins ML | +140 | $2.00 | +4.8% | WIN | +$2.80 | Marlins 4, Pirates 2. Max Meyer (7-0, 2.75 ERA) allowed 1 ER in 6 IP with 9 Ks. Skenes took the loss (6-6). HR from Hernández and Mack in 2nd put Marlins up 2-0, held lead all game. Edge thesis confirmed — equal ERA pitchers, Miami priced as huge dog at +140. |
+| 2026-06-14 | MLB | STL Cardinals @ MIN Twins | ML | Cardinals ML | +105 | $2.00 | +4.6% | LOSS | -$2.00 | Twins 5, Cardinals 4. McGreevy (3-5, 2.99 ERA) vs Bradley (5-3, 4.02 ERA). Cardinals led but Twins rallied — Kreidler RBI double in 8th scored winning run. Buxton 3 hits, Caratini 2-run HR. Twins took 2-of-3. Late-inning variance beat a solid edge pick. |
 
 ---
 
@@ -40,13 +42,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total Bets (LIVE) | 6 |
-| Wins | 3 |
-| Losses | 3 |
+| Total Bets (LIVE) | 8 |
+| Wins | 4 |
+| Losses | 4 |
 | Pushes | 0 |
 | Win Rate | 50.0% |
-| Total Wagered (LIVE) | $14.50 |
-| Total P&L (LIVE) | +$2.23 |
-| ROI | +15.4% |
+| Total Wagered (LIVE) | $18.50 |
+| Total P&L (LIVE) | +$3.03 |
+| ROI | +16.4% |
 
-*Note: Three rows above are BACKTEST only. LIVE bets: Rays ML WIN 2026-06-10, Knicks ML LOSS 2026-06-10, Cardinals ML LOSS 2026-06-11, MIL Under 7.5 WIN 2026-06-12, Brewers -1.5 WIN 2026-06-12, Brewers ML LOSS 2026-06-13 (all placed PENDING_MANUAL by Zack on Hard Rock Bet).*
+*Note: Three rows above are BACKTEST only. LIVE bets: Rays ML WIN 2026-06-10, Knicks ML LOSS 2026-06-10, Cardinals ML LOSS 2026-06-11, MIL Under 7.5 WIN 2026-06-12, Brewers -1.5 WIN 2026-06-12, Brewers ML LOSS 2026-06-13, Marlins ML WIN 2026-06-14, Cardinals ML LOSS 2026-06-14 (all placed PENDING_MANUAL by Zack on Hard Rock Bet).*
