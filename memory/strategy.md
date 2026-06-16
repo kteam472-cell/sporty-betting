@@ -226,6 +226,15 @@ Log the bet in results-log.md BEFORE placing it. If you're not willing to write 
 - **What worked:** Meyer (7-0) vs Skenes (6-6, 0-4 in last 6 starts). Nearly identical ERAs but market priced Pirates -166 / Marlins +140 (62.4% vs 41.7% implied). Marlins' true probability was closer to 46–47% — that's a +4.8% edge. Pick hit, Marlins 4-2.
 - **Key validation:** When two elite starters have comparable ERA but opposite win-loss records (one on a skid, one on a streak), the market over-adjusts toward win-loss record. ERA and K-rate are more predictive; recent win-loss record for pitchers is highly luck-dependent (run support). **Rule reinforced:** Chase ERA/strikeout edge over surface win-loss record when market creates a +5 or more point spread on equivalent pitchers.
 
+### 2026-06-15 — MLB COL@CHC OVER 9 LOSS (-$2.00)
+- **What happened:** Wrigley wind was 11 mph out to left-center. Lorenzen had a 7.54 ERA. But Imanaga (Cubs) held the Rockies in check. Final: Rockies 3-2 (5 total runs, well under 9). Despite the bad opposing pitcher and favorable wind, the elite home starter (Imanaga, 9+ K/9) suppressed scoring.
+- **Edge miss:** The OVER edge was calculated primarily on Lorenzen's ERA + wind, but did not discount for Imanaga's quality. An ace-level home starter can suppress 1.5–2 runs per game, easily negating a wind edge that adds ~0.5–1.0 runs.
+- **New rule:** Weather OVER edge (Wrigley wind) only applies in full force when BOTH starters are average-or-worse (4.50+ ERA). If the home starter is elite (sub-4.00 ERA, 9+ K/9), reduce the weather edge contribution by 50%. If the home starter is truly elite (sub-3.50 ERA), skip the weather-OVER play entirely unless the opposing pitcher is also strong and the total is already elevated.
+
+### 2026-06-15 — MLB NYM@CIN Reds ML WIN (+$1.38)
+- **What worked:** Burns (1.96 ERA, 7-1) vs. Myers (emergency Triple-A recall). Reds won 12-0. Myers lasted only 1.1 innings before being pulled. The pitcher quality edge was decisive.
+- **Reinforce:** Emergency recall starters are among the highest-edge spots in MLB. When a top-of-rotation ace faces a recall pitcher with minimal MLB experience/preparation time, the market consistently underprices the ace's team. Continue targeting these matchups.
+
 ### 2026-06-14 — MLB STL@MIN Cardinals ML LOSS (-$2.00)
 - **What happened:** Cardinals 4-3 going into 8th, then Twins rallied. Kreidler RBI double off Cardinals reliever Soriano (3-1) scored tying and winning run. Cardinals lost 5-4.
 - **Edge miss:** Cardinals had better SP (McGreevy 2.99 ERA vs Bradley 4.02), bullpen SIERA advantage (3.38 vs 4.51), and offensive wRC+ edge. But the Twins lineup executed in the clutch and the Cardinals bullpen cracked in the 8th — SIERA is an average measure, not a guarantee. The cardinals were also playing their 3rd rubber game in the series, a spot where opponent "resilience" matters.
