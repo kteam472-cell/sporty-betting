@@ -15,7 +15,7 @@
 | Wagered Today | $4.00 (settled) |
 | Open Bets Today | 0 |
 
-*Last updated: 2026-06-16 (results check — Reds ML WIN +$1.38, COL/CHC OVER LOSS -$2.00. Net today: -$0.62.)*
+*Last updated: 2026-06-16 (picks session — NO BET. No edge above 3% threshold found. Bankroll unchanged at $27.41. Egress blocked: Odds API + Telegram unavailable in cloud env.)*
 
 ---
 
@@ -31,6 +31,7 @@
 | 2026-06-13 | -$2.00 | +$2.23 | $27.23 | Brewers ML LOSS -$2.00. Phillies won 8-5. Drohan didn't hold despite quality ERA metrics. |
 | 2026-06-14 | +$0.80 | +$3.03 | $28.03 | Marlins ML WIN +$2.80 (Marlins 4-2 vs Pirates, Meyer 7-0 masterclass). Cardinals ML LOSS -$2.00 (Twins 5-4, Kreidler walk-off RBI double in 8th). |
 | 2026-06-15 | -$0.62 | +$2.41 | $27.41 | Reds ML WIN +$1.38 (Reds 12-0 vs Mets, Burns dominant, Myers roughed up in 1.1 IP). COL/CHC OVER LOSS -$2.00 (Rockies 3-2, total 5 runs — Imanaga nullified wind edge). |
+| 2026-06-16 | $0.00 | +$2.41 | $27.41 | No bet — no edge cleared 3% minimum threshold. Best candidate was TB Rays ML +160 (~2.5% est. edge), just below threshold. Disciplined sit-out day. |
 
 ---
 
