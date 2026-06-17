@@ -12,8 +12,8 @@
 | All-Time P&L | +$2.41 |
 | ROI (all-time) | +10.7% |
 | Total Bets Placed | 10 (live) |
-| Wagered Today | $4.00 (settled) |
-| Open Bets Today | 0 |
+| Wagered Today | $3.50 (pending) |
+| Open Bets Today | 2 |
 
 *Last updated: 2026-06-17 (results-check session — NO OPEN BETS. 0 bets pending settlement. Bankroll unchanged at $27.41. Egress still blocked: Odds API + Telegram unavailable in cloud env.)*
 
@@ -33,6 +33,7 @@
 | 2026-06-15 | -$0.62 | +$2.41 | $27.41 | Reds ML WIN +$1.38 (Reds 12-0 vs Mets, Burns dominant, Myers roughed up in 1.1 IP). COL/CHC OVER LOSS -$2.00 (Rockies 3-2, total 5 runs — Imanaga nullified wind edge). |
 | 2026-06-16 | $0.00 | +$2.41 | $27.41 | No bet — no edge cleared 3% minimum threshold. Best candidate was TB Rays ML +160 (~2.5% est. edge), just below threshold. Disciplined sit-out day. |
 | 2026-06-17 | $0.00 | +$2.41 | $27.41 | Results-check session. 0 open bets to settle — no picks were placed on 06-16 or 06-17. Bankroll unchanged. Egress blocked (3rd consecutive session): Odds API + Telegram unreachable in cloud env. |
+| 2026-06-17 | PENDING | PENDING | $27.41 | Daily picks session. 2 picks identified: Marlins ML +104 ($1.50) and Guardians ML +130 ($2.00). Total at risk: $3.50. Odds sourced via WebSearch (FanDuel/ActionNetwork). Telegram blocked — picks sent via GitHub commit + PushNotification. Awaiting manual placement by Zack. |
 
 ---
 
