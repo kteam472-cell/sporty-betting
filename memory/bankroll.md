@@ -12,8 +12,8 @@
 | All-Time P&L | +$1.97 |
 | ROI (all-time) | +6.7% |
 | Total Bets Placed | 12 (live, all settled) |
-| Wagered Today | $3.50 (settled) |
-| Open Bets Today | 0 |
+| Wagered Today | $5.00 (3 picks pending manual placement) |
+| Open Bets Today | 3 |
 
 *Last updated: 2026-06-18 (results-check session — Settled 2 bets from 06-17. Marlins ML WIN +$1.56, Guardians ML LOSS -$2.00. Net -$0.44. Bankroll: $27.41 → $26.97.)*
 
@@ -35,6 +35,7 @@
 | 2026-06-17 | $0.00 | +$2.41 | $27.41 | Results-check session. 0 open bets to settle — no picks were placed on 06-16 or 06-17. Bankroll unchanged. Egress blocked (3rd consecutive session): Odds API + Telegram unreachable in cloud env. |
 | 2026-06-17 | PENDING | PENDING | $27.41 | Daily picks session. 2 picks identified: Marlins ML +104 ($1.50) and Guardians ML +130 ($2.00). Total at risk: $3.50. Odds sourced via WebSearch (FanDuel/ActionNetwork). Telegram blocked — picks sent via GitHub commit + PushNotification. Awaiting manual placement by Zack. |
 | 2026-06-18 | -$0.44 | +$1.97 | $26.97 | Results-check session. Marlins ML WIN +$1.56 (Marlins 12-4 blowout, Alcantara dominant, RLM fade confirmed). Guardians ML LOSS -$2.00 (Brewers 9-4, Williams gave up 9 runs at home — lineup explosion). Net -$0.44. |
+| 2026-06-18 | PENDING | PENDING | $26.97 | Daily-picks session. 3 picks: ATL Braves ML -142 ($2.00), ATL/SFG Under 8 -110 ($1.50), NYY Yankees ML -154 ($1.50). Total at risk: $5.00. Telegram blocked — sent via GitHub commit + PushNotification. Zack places manually on HRB before 7:00 PM ET. |
 
 ---
 
