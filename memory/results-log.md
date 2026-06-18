@@ -37,8 +37,8 @@
 | 2026-06-14 | MLB | STL Cardinals @ MIN Twins | ML | Cardinals ML | +105 | $2.00 | +4.6% | LOSS | -$2.00 | Twins 5, Cardinals 4. McGreevy (3-5, 2.99 ERA) vs Bradley (5-3, 4.02 ERA). Cardinals led but Twins rallied — Kreidler RBI double in 8th scored winning run. Buxton 3 hits, Caratini 2-run HR. Twins took 2-of-3. Late-inning variance beat a solid edge pick. |
 | 2026-06-15 | MLB | NYM Mets @ CIN Reds | ML | Reds ML | -145 | $2.00 | +8.7% | WIN | +$1.38 | Reds 12, Mets 0. Burns (1.96 ERA) was dominant; Myers (emergency Triple-A recall) roughed up early, pulled after 1.1 IP allowing 7 runs. Mets shutout — eighth of the season. Edge thesis confirmed cleanly. Pitcher quality edge over emergency recall starter remains one of the most reliable setups. |
 | 2026-06-15 | MLB | COL Rockies @ CHC Cubs | O/U | OVER 9 | -124 | $2.00 | +5.6% | LOSS | -$2.00 | Rockies 3, Cubs 2 (total 5 runs, well under 9). Wind was out at Wrigley but Imanaga (Cubs) held Rockies in check. Despite Lorenzen's 7.54 ERA, both starters kept the game low-scoring. Weather edge was overridden by elite home pitcher — Imanaga's quality negated wind advantage. PENDING_MANUAL — placed by Zack on HRB. |
-| 2026-06-17 | MLB | MIA Marlins @ PHI Phillies | ML | Marlins ML | +104 | $1.50 | +4.0% | PENDING | — | Alcantara (6-4, 4.25 ERA) vs Painter (1-7, 6.43 ERA). Huge SP quality mismatch. 88% public on Phillies = sharp fade signal on Marlins at +104 (49% implied vs 53% true). PENDING_MANUAL. |
-| 2026-06-17 | MLB | CLE Guardians @ MIL Brewers | ML | Guardians ML | +130 | $2.00 | +7.5% | PENDING | — | Williams (9-3, 3.32 ERA) vs Sproat (1-4, 5.70 ERA). Market ignoring SP mismatch in favor of home field at -154. True prob ~51% vs 43.5% implied. Strongest edge this week. PENDING_MANUAL. |
+| 2026-06-17 | MLB | MIA Marlins @ PHI Phillies | ML | Marlins ML | +104 | $1.50 | +4.0% | WIN | +$1.56 | Marlins 12, Phillies 4. Alcantara dominant; Painter was roughed up. Public 88% on Phillies was a sharp fade — contrarian ML at +104 crushed. Edge thesis confirmed cleanly. RLM signal correct. |
+| 2026-06-17 | MLB | CLE Guardians @ MIL Brewers | ML | Guardians ML | +130 | $2.00 | +7.5% | LOSS | -$2.00 | Brewers 9, Guardians 4. Williams (9-3, 3.32 ERA) gave up 9 runs — Brewers lineup erupted at home. Guardians only scored 4 vs Sproat (5.70 ERA). ERA edge on road ace negated by home lineup explosion + park factor. |
 
 ---
 
@@ -46,13 +46,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total Bets (LIVE) | 12 (2 pending) |
-| Wins | 5 |
-| Losses | 5 |
+| Total Bets (LIVE) | 12 (all settled) |
+| Wins | 6 |
+| Losses | 6 |
 | Pushes | 0 |
 | Win Rate | 50.0% |
-| Total Wagered (LIVE) | $26.00 ($3.50 pending) |
-| Total P&L (LIVE) | +$2.41 (pending settlement) |
-| ROI | +10.7% (pending) |
+| Total Wagered (LIVE) | $29.50 |
+| Total P&L (LIVE) | +$1.97 |
+| ROI | +6.7% |
 
-*Note: Three rows above are BACKTEST only. LIVE bets: Rays ML WIN 2026-06-10, Knicks ML LOSS 2026-06-10, Cardinals ML LOSS 2026-06-11, MIL Under 7.5 WIN 2026-06-12, Brewers -1.5 WIN 2026-06-12, Brewers ML LOSS 2026-06-13, Marlins ML WIN 2026-06-14, Cardinals ML LOSS 2026-06-14, Reds ML WIN 2026-06-15, COL/CHC OVER LOSS 2026-06-15 (all placed PENDING_MANUAL by Zack on Hard Rock Bet).*
+*Note: Three rows above are BACKTEST only. LIVE bets: Rays ML WIN 2026-06-10, Knicks ML LOSS 2026-06-10, Cardinals ML LOSS 2026-06-11, MIL Under 7.5 WIN 2026-06-12, Brewers -1.5 WIN 2026-06-12, Brewers ML LOSS 2026-06-13, Marlins ML WIN 2026-06-14, Cardinals ML LOSS 2026-06-14, Reds ML WIN 2026-06-15, COL/CHC OVER LOSS 2026-06-15, Marlins ML WIN 2026-06-17, Guardians ML LOSS 2026-06-17 (all placed PENDING_MANUAL by Zack on Hard Rock Bet).*

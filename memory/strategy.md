@@ -258,4 +258,15 @@ Log the bet in results-log.md BEFORE placing it. If you're not willing to write 
 
 ---
 
+### 2026-06-17 — MLB MIA@PHI Marlins ML WIN (+$1.56)
+- **What worked:** Alcantara (6-4, 4.25 ERA) vs Painter (1-7, 6.43 ERA). Public was 88% on Phillies at home, but the SP quality gap was real. Marlins blew out Phillies 12-4. Reverse Line Movement (RLM) fade of 88% public at +104 produced one of the cleanest wins of the session.
+- **Reinforce:** RLM + clear SP quality edge is a high-confidence combo. When public is 85%+ on a home favorite and the opposing road starter is meaningfully better, the contrarian ML on the dog is worth full sizing. Market is pricing crowd sentiment, not pitching.
+
+### 2026-06-17 — MLB CLE@MIL Guardians ML LOSS (-$2.00)
+- **What happened:** Williams (9-3, 3.32 ERA) started for Cleveland but gave up 9 runs — the Brewers' lineup exploded at home. Guardians only managed 4 runs off Sproat (5.70 ERA). Despite the road team having an elite ace vs. a struggling home starter, the Brewers won convincingly 9-4.
+- **Edge miss:** ERA predicts averages, not individual game performances. An elite pitcher can still give up 9 runs in a single outing, especially when facing a high-power home lineup. American Family Field (Milwaukee) historically plays well for the Brewers lineup.
+- **New rule:** Road ace SP edge (road team elite pitcher vs. weak home starter) needs a supporting lineup advantage to be high-confidence. If the road team's offense ranks bottom-third in wRC+, reduce the stake by 0.5× even if the SP edge is large — you're betting on preventing runs but not necessarily scoring them. A loss by the road ace on his own is outcome-changing regardless of edge.
+
+---
+
 *Sources: OddsShark, Sports Insights, Action Network, BetStamp, Covers.com, SportsInsights.com, academic research via Bet Labs / QuantifiedStrategies.com*
