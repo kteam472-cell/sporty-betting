@@ -12,10 +12,10 @@
 | All-Time P&L | +$0.47 |
 | ROI (all-time) | +1.5% |
 | Total Bets Placed | 13 (live, all settled; 2 voids not counted) |
-| Wagered Today | $0.00 (no open bets) |
-| Open Bets Today | 0 |
+| Wagered Today | $3.50 (3 open bets) |
+| Open Bets Today | 3 |
 
-*Last updated: 2026-06-19 (results-check session — Settled 3 bets from 06-18. Yankees ML LOSS -$1.50 (CWS 5-1). Braves ML VOID $0 + Under 8 VOID $0 (game postponed, Tropical Storm Arthur). Net -$1.50. Bankroll: $26.97 → $25.47.)*
+*Last updated: 2026-06-19 (daily-picks session — 3 picks placed PENDING_MANUAL: Cubs ML -120 $1.00, CWS ML +110 $1.25, MIL/ATL Under 7.5 -105 $1.25. Total at risk: $3.50. Telegram blocked — picks sent via GitHub commit. Zack places manually on HRB.)*
 
 ---
 
