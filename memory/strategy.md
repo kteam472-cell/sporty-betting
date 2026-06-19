@@ -269,4 +269,16 @@ Log the bet in results-log.md BEFORE placing it. If you're not willing to write 
 
 ---
 
+### 2026-06-18 — MLB CWS @ NYY Yankees ML LOSS (-$1.50)
+- **What happened:** Yankees were -154 home favorites vs CWS. Sean Burke (3-4, 4.15 ERA) pitched a masterclass: 7.1 IP, 1 ER, 8 Ks on 88 pitches. Benintendi hit a pinch-hit grand slam in the 8th. CWS won 5-1.
+- **Edge miss:** The pick edge was real (+3.8%) and the team-quality gap was real. But season ERA is a regressed mean — any individual pitcher can outperform it dramatically in a single game. Burke's 4.15 ERA told us nothing about his ceiling on June 18.
+- **New rule:** When betting heavy favorites (-150 or steeper) based on team quality alone (no clear SP edge), note that the opposing pitcher can easily outperform their average. Heavy favorites lose ~35–37% of the time. At -154, we only need to win 61% of such picks to break even — tight margins. Cap team-quality-only picks at $1.00–$1.25 when the only edge is opponent weakness, not our team's starter.
+
+### 2026-06-18 — ATL Braves ML + Under 8 VOIDED (Postponement)
+- **What happened:** Giants @ Braves series finale postponed before first pitch due to Tropical Storm Arthur remnants. Severe weather threat in north Georgia. Game rescheduled for August 31.
+- **Incidental observation:** Giants had swept the prior two series games (7-2 and 7-5), meaning the Braves motivation edge was failing in real time. The postponement voided the bets but the series result validated suspicion that the edge wasn't as clean as modeled.
+- **New rule (weather):** For June–September games in the Southeast (Atlanta/Truist Park, Miami/loanDepot, Houston/Minute Maid), check tropical storm/hurricane watch bulletins during Atlantic hurricane season, not just local wind/rain forecasts. Tropical remnants can cause full postponements with 24-hour notice. If a named storm track shows any path within 300 miles of the park within 48 hours, delay the bet or pass. A voided bet is neutral, but it's a process risk for PENDING_MANUAL picks where the game disappears after Zack places.
+
+---
+
 *Sources: OddsShark, Sports Insights, Action Network, BetStamp, Covers.com, SportsInsights.com, academic research via Bet Labs / QuantifiedStrategies.com*
