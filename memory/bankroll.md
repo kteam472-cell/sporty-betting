@@ -12,10 +12,10 @@
 | All-Time P&L | +$1.24 |
 | ROI (all-time) | +3.6% |
 | Total Bets Placed | 16 (live, all settled; 2 voids not counted) |
-| Wagered Today | $0 (0 open bets) |
-| Open Bets Today | 0 |
+| Wagered Today | $4.00 (2 open bets) |
+| Open Bets Today | 2 |
 
-*Last updated: 2026-06-20 (results-check session — settled 3 bets from 2026-06-19: Cubs ML WIN +$0.83, CWS ML LOSS -$1.25, MIL/ATL Under WIN +$1.19. Net: +$0.77. Bankroll: $25.47 → $26.24.)*
+*Last updated: 2026-06-20 (daily-picks session — 2 picks placed: SFG@MIA Under 8 (-110) $2.00 and NYM@PHI Under 7.5 (-112) $2.00. Total at risk: $4.00. Both PENDING_MANUAL — Zack places on HRB.)*
 
 ---
 
@@ -38,6 +38,7 @@
 | 2026-06-18 | PENDING | PENDING | $26.97 | Daily-picks session. 3 picks: ATL Braves ML -142 ($2.00), ATL/SFG Under 8 -110 ($1.50), NYY Yankees ML -154 ($1.50). Total at risk: $5.00. Telegram blocked — sent via GitHub commit + PushNotification. Zack places manually on HRB before 7:00 PM ET. |
 | 2026-06-19 | -$1.50 | +$0.47 | $25.47 | Results-check session. Yankees ML LOSS -$1.50 (CWS 5-1; Burke dealt, Benintendi grand slam). Braves ML VOID + Under 8 VOID (game postponed, Tropical Storm Arthur, makeup Aug 31). Net -$1.50. |
 | 2026-06-20 | +$0.77 | +$1.24 | $26.24 | Results-check session. Cubs ML WIN +$0.83 (Cubs 16-2, Ben Brown dominant, Carson Kelly grand slam). CWS ML LOSS -$1.25 (Tigers 4-3, Skubal 8 Ks on return). MIL/ATL Under WIN +$1.19 (Braves 3-2, 5 total runs). Net +$0.77. Win rate now 50.0% (8W-8L), ROI +3.6%. |
+| 2026-06-20 | PENDING | PENDING | $26.24 | Daily picks session. 2 picks: SFG@MIA Under 8 (-110) $2.00 and NYM@PHI Under 7.5 (-112) $2.00. Total at risk: $4.00. Meyer (7-0, 2.75 ERA) and Sanchez (1.46 ERA, league-best) anchoring both Unders. Edge ~10% each. Awaiting manual placement by Zack on HRB before 7:10 PM ET. |
 
 ---
 

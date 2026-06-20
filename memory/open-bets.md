@@ -4,10 +4,14 @@ Bets placed, results pending.
 
 | Date | Game | Pick | Odds | Stake | To Win | Status |
 |------|------|------|------|-------|--------|--------|
+| 2026-06-20 | SFG Giants @ MIA Marlins (~7:10 PM ET) | Under 8 | -110 | $2.00 | +$1.82 | PENDING_MANUAL |
+| 2026-06-20 | NYM Mets @ PHI Phillies (7:15 PM ET) | Under 7.5 | -112 | $2.00 | +$1.79 | PENDING_MANUAL |
 
-**0 open bets. Total at risk: $0.00.**
+**2 open bets. Total at risk: $4.00.**
 
 *(Updated after each bet is placed. Cleared to results-log.md after games finish.)*
+
+*Last updated: 2026-06-20 — 2 picks placed for tonight's games.*
 
 *Last cleared: 2026-06-20 — settled 3 bets from 2026-06-19:*
 - *TOR @ CHC Cubs ML (-120) $1.00 → WIN +$0.83 (Cubs 16-2, Ben Brown dominant, 7-run 1st inning)*
@@ -16,7 +20,35 @@ Bets placed, results pending.
 
 ---
 
-## Pick Reasoning
+## Pick Reasoning (2026-06-20)
+
+### Pick 1: SFG @ MIA Under 8 (-110) — $2.00
+**Place on Hard Rock Bet: Giants @ Marlins, Total Under 8, -110, $2.00**
+- Max Meyer (7-0, 2.75 ERA, 9.8 K/9, 86 Ks in 79 IP) — elite ace, 4th in NL in strikeouts
+- Trevor McDonald (2-4, 4.64 ERA, 1.29 WHIP) — well below average
+- Giants 31-43 (-49 run differential), missing Ramos/Bader/Birdsong/Mahle — weakened lineup
+- loanDepot Park Miami — retractable roof, no weather concerns
+- Expected scoring: Meyer allows ~2 runs on avg, McDonald allows ~4 runs → ~6 expected total, well under 8
+- Implied probability at -110: 52.4% | Estimated true probability: ~62% | **Edge: +10%**
+- Half-Kelly sizing: $2.65 → $2.00 (conservative)
+
+### Pick 2: NYM @ PHI Under 7.5 (-112) — $2.00
+**Place on Hard Rock Bet: Mets @ Phillies, Total Under 7.5, -112, $2.00**
+- Cristopher Sanchez (8-3, 1.46 ERA — MLB LEAGUE BEST, 103:17 K:BB, 50+ inning scoreless streak in 2026)
+- Freddy Peralta (5-5, 3.90 ERA) — solid but nowhere near Sanchez's elite level
+- Phillies 40-35 home (21-19); Mets 34-41 on road (18-18 away)
+- Citizens Bank Park — outdoor, standard June Philadelphia conditions
+- Expected scoring: Sanchez allows ~1-2 runs, Peralta allows ~3-4 runs → ~4-6 total, well under 7.5
+- Pattern: mirrors Misiorowski Under wins (similar ERA profile, same Under strategy)
+- Implied probability at -112: 52.8% | Estimated true probability: ~63% | **Edge: +10%**
+- Half-Kelly sizing: $2.83 → $2.00 (conservative)
+
+**Total at risk today: $4.00 | Bankroll: $26.24 | Remaining capacity: $21.00 (daily limit $25)**
+**If both win: +$3.61 → Bankroll $29.85 | If both lose: -$4.00 → Bankroll $22.24**
+
+---
+
+## Pick Reasoning (2026-06-19, settled)
 
 ### Pick 1: CHC Cubs ML (-120) — $1.00
 **URGENT: Game at 2:20 PM ET — place immediately on Hard Rock Bet**
