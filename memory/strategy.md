@@ -281,4 +281,16 @@ Log the bet in results-log.md BEFORE placing it. If you're not willing to write 
 
 ---
 
+### 2026-06-19 — MLB CWS @ DET White Sox ML LOSS (-$1.25)
+- **What happened:** White Sox were 32-27 vs Tigers 22-38 — a 10-game team-quality gap at +110. But Tarik Skubal (returning from NanoScope elbow surgery, pitch-limited to ~80 pitches) struck out 8 batters, and the Tigers held on 4-3.
+- **Edge miss:** The theory was: Skubal pitch-limited → DET 22-38 bullpen inherits a close game for ~5 innings → CWS team quality wins out. In reality, an elite pitcher like Skubal can be fully dominant even at 80 pitches (enough for 5-6 innings), and 80 pitches in a 4-3 game means he retired enough batters to hand off a slim lead — not the 5-inning, 50-pitch exposure we modeled.
+- **New rule:** Returning-from-injury elite pitchers (ace-level, sub-3.50 ERA career) with pitch limits are NOT safe to fade purely on pitch count. Even 75–80 pitches can deliver 5+ dominant innings. A pitch-limited ace is still an ace. Fade the pitch limit angle only if the return is their first 2 starts or they are demonstrably compromised (ERA 5+ in limited return outings). For healthy-returning aces in their 3rd+ start back, treat them as normal starters.
+
+### 2026-06-19 — MLB MIL @ ATL Under 7.5 WIN (+$1.19) / TOR @ CHC Cubs ML WIN (+$0.83)
+- **What worked (Under):** Misiorowski (8-2) + Pérez (2.90 ERA) delivered a 3-2 final. Second Misiorowski Under in 8 days. When Misiorowski starts, the Under is the default lean regardless of opponent — his 1.50 ERA and sub-0.85 WHIP make him among the most reliable low-total anchors in MLB.
+- **What worked (Cubs ML):** Ben Brown delivered a dominant performance and the Cubs offense exploded for 16 runs. Elite SP at a reasonable price (-120) with home field confirmed again. The Ben Brown edge thesis is reliable — his 1.44 ERA as a starter represents a genuine market inefficiency while he's still perceived as a young arm.
+- **Reinforce:** Misiorowski Unders are a repeatable play whenever he starts and the total is set at 8.5 or below. His floor is elite even on bad days.
+
+---
+
 *Sources: OddsShark, Sports Insights, Action Network, BetStamp, Covers.com, SportsInsights.com, academic research via Bet Labs / QuantifiedStrategies.com*

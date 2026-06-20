@@ -4,18 +4,15 @@ Bets placed, results pending.
 
 | Date | Game | Pick | Odds | Stake | To Win | Status |
 |------|------|------|------|-------|--------|--------|
-| 2026-06-19 | TOR Blue Jays @ CHC Cubs (Wrigley Field, 2:20 PM ET) | Cubs ML | -120 | $1.00 | $0.83 | PENDING_MANUAL ⚠️ URGENT — place before 2:20 PM ET |
-| 2026-06-19 | CWS White Sox @ DET Tigers (Comerica Park, 6:40 PM ET) | White Sox ML | +110 | $1.25 | $1.38 | PENDING_MANUAL |
-| 2026-06-19 | MIL Brewers @ ATL Braves (Truist Park, 7:15 PM ET) | Under 7.5 | -105 | $1.25 | $1.19 | PENDING_MANUAL |
 
-**3 open bets. Total at risk: $3.50.**
+**0 open bets. Total at risk: $0.00.**
 
 *(Updated after each bet is placed. Cleared to results-log.md after games finish.)*
 
-*Last cleared: 2026-06-19 — settled 3 bets from 2026-06-18:*
-- *ATL Braves ML (-142) $2.00 → VOID (game postponed, Tropical Storm Arthur, rescheduled Aug 31)*
-- *ATL/SFG Under 8 (-110) $1.50 → VOID (game postponed, same)*
-- *NYY Yankees ML (-154) $1.50 → LOSS -$1.50 (CWS 5-1, Burke 7.1 IP 1 ER 8 K, Benintendi grand slam in 8th)*
+*Last cleared: 2026-06-20 — settled 3 bets from 2026-06-19:*
+- *TOR @ CHC Cubs ML (-120) $1.00 → WIN +$0.83 (Cubs 16-2, Ben Brown dominant, 7-run 1st inning)*
+- *CWS @ DET Tigers — White Sox ML (+110) $1.25 → LOSS -$1.25 (Tigers 4-3, Skubal 8 Ks, Vierling/Carpenter HRs)*
+- *MIL @ ATL Under 7.5 (-105) $1.25 → WIN +$1.19 (Braves 3-2, 5 total runs, Misiorowski + Pérez delivered)*
 
 ---
 
