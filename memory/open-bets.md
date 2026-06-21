@@ -4,8 +4,9 @@ Bets placed, results pending.
 
 | Date | Game | Pick | Odds | Stake | To Win | Status |
 |------|------|------|------|-------|--------|--------|
+| 2026-06-21 | CIN Reds @ NYY Yankees (Yankee Stadium, 1:35 PM ET) | Reds ML | +102 | $2.00 | +$2.04 | PENDING_MANUAL |
 
-**0 open bets. Total at risk: $0.00.**
+**1 open bet. Total at risk: $2.00.**
 
 *(Updated after each bet is placed. Cleared to results-log.md after games finish.)*
 
@@ -17,6 +18,28 @@ Bets placed, results pending.
 - *TOR @ CHC Cubs ML (-120) $1.00 → WIN +$0.83 (Cubs 16-2, Ben Brown dominant, 7-run 1st inning)*
 - *CWS @ DET Tigers — White Sox ML (+110) $1.25 → LOSS -$1.25 (Tigers 4-3, Skubal 8 Ks, Vierling/Carpenter HRs)*
 - *MIL @ ATL Under 7.5 (-105) $1.25 → WIN +$1.19 (Braves 3-2, 5 total runs, Misiorowski + Pérez delivered)*
+
+---
+
+## Pick Reasoning (2026-06-21)
+
+### Pick 1: CIN Reds ML (+102) — $2.00
+**Place on Hard Rock Bet: Reds @ Yankees, Reds Moneyline, +102, $2.00 — GAME AT 1:35 PM ET, PLACE BY 1:30 PM**
+
+**EDGE STACK — Multiple converging factors:**
+- Chase Burns (8-1, 2.01 ERA, 10.6 K/9, 1.02 WHIP) — elite ace, holds opponents to ≤2 ER in 13 of 14 starts in 2026
+- NYY starter Elmer Rodriguez-Cruz (4.15 ERA, 1.85 WHIP, 13 IP total) — has NEVER completed 5 innings in any MLB start; very inexperienced
+- Yankees MISSING 4 key regulars: Aaron Judge (stress fracture rib, out until August), Giancarlo Stanton (calf re-injury), Gleyber Torres (oblique IL since June 17), Trent Grisham (hamstring IL since June 13)
+- Reds 10-4-0 ATS (71.4%) in Burns' 2026 starts — market consistently undervalues Reds when Burns pitches
+- Public money heavily on Yankees (85-91% of tickets) — contrarian sharp value on Reds ML
+- Weather: Yankee Stadium, clear, 79°F, 12 mph wind out, 0% rain — clean conditions, no postponement risk
+- This matches our "inexperienced starter + depleted opposing lineup" edge from strategy (same setup as Reds WIN on 06-15)
+
+Implied probability at +102: 49.5% | Estimated true probability: ~58% | **Edge: +8.5%**
+Half-Kelly sizing: $1.87 → $2.00
+
+**Total at risk today: $2.00 | Bankroll: $22.24 | Remaining daily capacity: $23.00**
+**If win: +$2.04 → Bankroll $24.28 | If loss: -$2.00 → Bankroll $20.24**
 
 ---
 
