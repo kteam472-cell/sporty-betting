@@ -45,6 +45,8 @@
 | 2026-06-19 | MLB | TOR Blue Jays @ CHC Cubs | ML | Cubs ML | -120 | $1.00 | +3.5% | WIN | +$0.83 | Cubs 16, Blue Jays 2. Ben Brown dominant. 7-run first inning including Carson Kelly grand slam (career-high 6 RBI). Gausman and TOR bullpen roughed up. Elite SP + home field edge confirmed cleanly. PENDING_MANUAL — placed by Zack on HRB. |
 | 2026-06-19 | MLB | CWS White Sox @ DET Tigers | ML | White Sox ML | +110 | $1.25 | +4.0% | LOSS | -$1.25 | Tigers 4, White Sox 3. Skubal struck out 8 batters (NanoScope return better than expected). Matt Vierling and Kerry Carpenter hit HRs for DET. Team-quality edge real but Skubal outperformed post-surgery expectations; DET bullpen held. PENDING_MANUAL — placed by Zack on HRB. |
 | 2026-06-19 | MLB | MIL Brewers @ ATL Braves | O/U | Under 7.5 | -105 | $1.25 | +4.8% | WIN | +$1.19 | Braves 3, Brewers 2. Total = 5 runs — well under 7.5. Misiorowski (8-2) and Pérez (2.90 ERA) delivered the pitcher's duel as modeled. Acuña Jr. out. Edge thesis confirmed cleanly. PENDING_MANUAL — placed by Zack on HRB. |
+| 2026-06-20 | MLB | SFG Giants @ MIA Marlins | O/U | Under 8 | -110 | $2.00 | +10.0% | LOSS | -$2.00 | Giants 3, Marlins 6. Total = 9 runs — over 8. Meyer solid (5 IP, ~2 ER) but Marlins offense erupted for 6 total runs off McDonald + Giants bullpen. Our Under model correctly projected Giants scoring ~3, but underestimated Marlins' offensive output. PENDING_MANUAL — placed by Zack on HRB. |
+| 2026-06-20 | MLB | NYM Mets @ PHI Phillies | O/U | Under 7.5 | -112 | $2.00 | +10.0% | LOSS | -$2.00 | Mets 3, Phillies 15. Total = 18 runs — massive OVER. Sanchez delivered (1 ER in 6 IP, ERA improved to 1.80), but Mets starter Peralta completely imploded (10 ER in 2.2 IP). When the opposing starter collapses, no Under survives regardless of how well the elite starter pitches. PENDING_MANUAL — placed by Zack on HRB. |
 
 ---
 
@@ -52,13 +54,13 @@
 
 | Metric | Value |
 |--------|-------|
-| Total Bets (LIVE) | 16 (all settled; 2 void not counted) |
+| Total Bets (LIVE) | 18 (all settled; 2 void not counted) |
 | Wins | 8 |
-| Losses | 8 |
+| Losses | 10 |
 | Pushes | 0 |
-| Win Rate | 50.0% |
-| Total Wagered (LIVE) | $34.50 |
-| Total P&L (LIVE) | +$1.24 |
-| ROI | +3.6% |
+| Win Rate | 44.4% |
+| Total Wagered (LIVE) | $38.50 |
+| Total P&L (LIVE) | -$2.76 |
+| ROI | -7.2% |
 
-*Note: Three rows above are BACKTEST only. LIVE bets: Rays ML WIN 2026-06-10, Knicks ML LOSS 2026-06-10, Cardinals ML LOSS 2026-06-11, MIL Under 7.5 WIN 2026-06-12, Brewers -1.5 WIN 2026-06-12, Brewers ML LOSS 2026-06-13, Marlins ML WIN 2026-06-14, Cardinals ML LOSS 2026-06-14, Reds ML WIN 2026-06-15, COL/CHC OVER LOSS 2026-06-15, Marlins ML WIN 2026-06-17, Guardians ML LOSS 2026-06-17, Yankees ML LOSS 2026-06-18, Cubs ML WIN 2026-06-19, CWS ML LOSS 2026-06-19, MIL/ATL Under WIN 2026-06-19. Two voided bets (Braves ML, Under 8, game postponed 2026-06-18) excluded from live count. All placed PENDING_MANUAL by Zack on Hard Rock Bet.*
+*Note: Three rows above are BACKTEST only. LIVE bets: Rays ML WIN 2026-06-10, Knicks ML LOSS 2026-06-10, Cardinals ML LOSS 2026-06-11, MIL Under 7.5 WIN 2026-06-12, Brewers -1.5 WIN 2026-06-12, Brewers ML LOSS 2026-06-13, Marlins ML WIN 2026-06-14, Cardinals ML LOSS 2026-06-14, Reds ML WIN 2026-06-15, COL/CHC OVER LOSS 2026-06-15, Marlins ML WIN 2026-06-17, Guardians ML LOSS 2026-06-17, Yankees ML LOSS 2026-06-18, Cubs ML WIN 2026-06-19, CWS ML LOSS 2026-06-19, MIL/ATL Under WIN 2026-06-19, SFG@MIA Under LOSS 2026-06-20, NYM@PHI Under LOSS 2026-06-20. Two voided bets (Braves ML, Under 8, game postponed 2026-06-18) excluded from live count. All placed PENDING_MANUAL by Zack on Hard Rock Bet.*

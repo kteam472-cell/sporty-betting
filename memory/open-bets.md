@@ -4,14 +4,14 @@ Bets placed, results pending.
 
 | Date | Game | Pick | Odds | Stake | To Win | Status |
 |------|------|------|------|-------|--------|--------|
-| 2026-06-20 | SFG Giants @ MIA Marlins (~7:10 PM ET) | Under 8 | -110 | $2.00 | +$1.82 | PENDING_MANUAL |
-| 2026-06-20 | NYM Mets @ PHI Phillies (7:15 PM ET) | Under 7.5 | -112 | $2.00 | +$1.79 | PENDING_MANUAL |
 
-**2 open bets. Total at risk: $4.00.**
+**0 open bets. Total at risk: $0.00.**
 
 *(Updated after each bet is placed. Cleared to results-log.md after games finish.)*
 
-*Last updated: 2026-06-20 — 2 picks placed for tonight's games.*
+*Last updated: 2026-06-21 — settled 2 bets from 2026-06-20:*
+- *SFG @ MIA Under 8 (-110) $2.00 → LOSS -$2.00 (Giants 3, Marlins 6 — total 9, over 8. Meyer solid 5 IP but Marlins offense erupted for 6.)*
+- *NYM @ PHI Under 7.5 (-112) $2.00 → LOSS -$2.00 (Mets 3, Phillies 15 — total 18. Sanchez allowed only 1 ER in 6 IP but Peralta (Mets) gave up 10 runs in 2.2 IP, game got away.)*
 
 *Last cleared: 2026-06-20 — settled 3 bets from 2026-06-19:*
 - *TOR @ CHC Cubs ML (-120) $1.00 → WIN +$0.83 (Cubs 16-2, Ben Brown dominant, 7-run 1st inning)*

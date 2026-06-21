@@ -293,4 +293,14 @@ Log the bet in results-log.md BEFORE placing it. If you're not willing to write 
 
 ---
 
+### 2026-06-20 — MLB NYM@PHI Under 7.5 LOSS (-$2.00) / SFG@MIA Under 8 LOSS (-$2.00)
+- **What happened (NYM@PHI):** Sanchez pitched brilliantly (1 ER in 6 IP, ERA fell to 1.80). But the Mets starting pitcher Peralta completely imploded: 10 ER in 2.2 IP. Final: Phillies 15, Mets 3 (total 18 runs). Our elite-pitcher Under anchor did exactly what we modeled — and it didn't matter. One catastrophic pitching collapse by the opponent renders any Under unwinnable.
+- **What happened (SFG@MIA):** Meyer was solid (5 IP, ~2 ER) and Giants scored only 3 total — consistent with our model. But Marlins scored 6 runs off McDonald + Giants bullpen, pushing the total to 9, over the 8 line. Our model had Marlins expected at ~4 runs; they exceeded that by 50%.
+- **Edge miss (NYM@PHI):** We correctly identified Sanchez as a dominant Under anchor. We treated Peralta (3.90 ERA) as "solid but inferior." A 3.90 ERA pitcher giving up 10 ER in 2.2 IP is an extreme outlier — but it can happen. When betting Unders that depend on the *opposing* starter being serviceable, there is meaningful blowup risk when that starter collapses.
+- **Edge miss (SFG@MIA):** McDonald's 4.64 ERA and 1.29 WHIP were the risk factors we identified. We modeled ~4 Marlins runs; they scored 6. The Marlins bullpen also contributed runs after McDonald exited — the "weak SP + bullpen continuation" effect compounded beyond expectation.
+- **New rule — Under Bet Opponent Starter Risk:** When betting an Under anchored on one elite starter, explicitly model the risk of the opposing starter's ERA ceiling performance. A pitcher with 4.50+ ERA has meaningful probability of allowing 7+ runs in a single start. If the opposing starter has ERA 4.00+, reduce estimated edge by ~3-4% to account for blowup risk. If the opposing starter has ERA 4.50+ AND the Under line is 7.5 or lower, consider passing or reducing stake by 50% — the opponent's ceiling can break the Under in a single bad inning.
+- **New rule — Weak Starter + Bullpen Risk (Unders):** When the opposing team's starter has ERA 4.50+, there is elevated probability of early exit (3-5 innings), which exposes the *bullpen* as a second scoring threat. Under models should add 0.5-1.0 runs for the expected bullpen exposure after an early-exiting weak starter. Total expected runs = starter expected + bullpen exposure allowance.
+
+---
+
 *Sources: OddsShark, Sports Insights, Action Network, BetStamp, Covers.com, SportsInsights.com, academic research via Bet Labs / QuantifiedStrategies.com*

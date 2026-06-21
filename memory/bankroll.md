@@ -8,14 +8,14 @@
 | Field | Value |
 |-------|-------|
 | Starting Bankroll | $25.00 |
-| Current Bankroll | $26.24 |
-| All-Time P&L | +$1.24 |
-| ROI (all-time) | +3.6% |
-| Total Bets Placed | 16 (live, all settled; 2 voids not counted) |
-| Wagered Today | $4.00 (2 open bets) |
-| Open Bets Today | 2 |
+| Current Bankroll | $22.24 |
+| All-Time P&L | -$2.76 |
+| ROI (all-time) | -7.2% |
+| Total Bets Placed | 18 (live, all settled; 2 voids not counted) |
+| Wagered Today | $4.00 (both settled) |
+| Open Bets Today | 0 |
 
-*Last updated: 2026-06-20 (daily-picks session — 2 picks placed: SFG@MIA Under 8 (-110) $2.00 and NYM@PHI Under 7.5 (-112) $2.00. Total at risk: $4.00. Both PENDING_MANUAL — Zack places on HRB.)*
+*Last updated: 2026-06-21 (results-check session — settled SFG@MIA Under 8 LOSS -$2.00 and NYM@PHI Under 7.5 LOSS -$2.00. Net today: -$4.00. Bankroll dropped from $26.24 → $22.24.)*
 
 ---
 
@@ -39,6 +39,7 @@
 | 2026-06-19 | -$1.50 | +$0.47 | $25.47 | Results-check session. Yankees ML LOSS -$1.50 (CWS 5-1; Burke dealt, Benintendi grand slam). Braves ML VOID + Under 8 VOID (game postponed, Tropical Storm Arthur, makeup Aug 31). Net -$1.50. |
 | 2026-06-20 | +$0.77 | +$1.24 | $26.24 | Results-check session. Cubs ML WIN +$0.83 (Cubs 16-2, Ben Brown dominant, Carson Kelly grand slam). CWS ML LOSS -$1.25 (Tigers 4-3, Skubal 8 Ks on return). MIL/ATL Under WIN +$1.19 (Braves 3-2, 5 total runs). Net +$0.77. Win rate now 50.0% (8W-8L), ROI +3.6%. |
 | 2026-06-20 | PENDING | PENDING | $26.24 | Daily picks session. 2 picks: SFG@MIA Under 8 (-110) $2.00 and NYM@PHI Under 7.5 (-112) $2.00. Total at risk: $4.00. Meyer (7-0, 2.75 ERA) and Sanchez (1.46 ERA, league-best) anchoring both Unders. Edge ~10% each. Awaiting manual placement by Zack on HRB before 7:10 PM ET. |
+| 2026-06-21 | -$4.00 | -$2.76 | $22.24 | Results-check session. SFG@MIA Under 8 LOSS -$2.00 (Giants 3, Marlins 6, total 9). NYM@PHI Under 7.5 LOSS -$2.00 (Mets 3, Phillies 15, total 18 — Peralta imploded for 10 ER in 2.2 IP). Win rate drops to 44.4% (8W-10L), ROI now -7.2%. |
 
 ---
 
