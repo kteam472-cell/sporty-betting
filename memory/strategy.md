@@ -303,4 +303,10 @@ Log the bet in results-log.md BEFORE placing it. If you're not willing to write 
 
 ---
 
+### 2026-06-21 — MLB CIN Reds ML WIN (+$2.04) — Burns "Depleted Lineup + Public Fade" Pattern
+- **What worked:** Burns (9-1, 2.01 ERA) vs. Rodriguez-Cruz (inexperienced, never completed 5 IP in any MLB start). Yankees missing their top 4 position players (Judge, Stanton, Torres, Grisham — 4 IL starters). 91% public on Yankees = extreme contrarian spot at +102. Final: Reds 4-1. Burns' 8th straight win.
+- **Pattern now confirmed 3 times:** Burns personally: Reds WIN 06-15 (vs Myers emergency recall), Reds WIN 06-21 (vs Rodriguez-Cruz rookie). Broader "elite ace + depleted/inexperienced starter + public fade": also Marlins WIN 06-17 (Alcantara + Painter + 88% public PHI).
+- **New reinforced rule — "Premium Stack" setup:** When 3 factors converge simultaneously — (1) elite ace (sub-2.50 ERA, 9+ K/9) vs. inexperienced/struggling starter, (2) opposing lineup missing 2+ key regulars to injury, (3) 80%+ public on the opponent — bet full sizing (up to $3–$4 at current bankroll) even at negative odds. This is the highest-confidence setup in the current system.
+- **Burns specifically:** Chase Burns is now 9-1 with a 2.01 ERA. The market still prices him as an underdog or slim favorite in many matchups. Continue targeting Reds ML whenever Burns starts vs. a sub-par starter, regardless of venue. His current dominance represents a genuine market inefficiency — he's still being priced as a "promising young arm" rather than an elite #1 SP.
+
 *Sources: OddsShark, Sports Insights, Action Network, BetStamp, Covers.com, SportsInsights.com, academic research via Bet Labs / QuantifiedStrategies.com*

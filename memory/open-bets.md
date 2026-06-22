@@ -4,11 +4,13 @@ Bets placed, results pending.
 
 | Date | Game | Pick | Odds | Stake | To Win | Status |
 |------|------|------|------|-------|--------|--------|
-| 2026-06-21 | CIN Reds @ NYY Yankees (Yankee Stadium, 1:35 PM ET) | Reds ML | +102 | $2.00 | +$2.04 | PENDING_MANUAL |
 
-**1 open bet. Total at risk: $2.00.**
+**0 open bets. Total at risk: $0.00.**
 
 *(Updated after each bet is placed. Cleared to results-log.md after games finish.)*
+
+*Last updated: 2026-06-22 — settled 1 bet from 2026-06-21:*
+- *CIN Reds @ NYY Yankees — Reds ML (+102) $2.00 → WIN +$2.04 (Reds 4-1; Burns 5 IP 1 ER 7 Ks, 8th straight win; Stephenson 3-run HR off Rodriguez-Cruz in 4th; Marte RBI double in 9th)*
 
 *Last updated: 2026-06-21 — settled 2 bets from 2026-06-20:*
 - *SFG @ MIA Under 8 (-110) $2.00 → LOSS -$2.00 (Giants 3, Marlins 6 — total 9, over 8. Meyer solid 5 IP but Marlins offense erupted for 6.)*

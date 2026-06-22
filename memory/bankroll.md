@@ -8,14 +8,14 @@
 | Field | Value |
 |-------|-------|
 | Starting Bankroll | $25.00 |
-| Current Bankroll | $22.24 |
-| All-Time P&L | -$2.76 |
-| ROI (all-time) | -7.2% |
-| Total Bets Placed | 18 (live, all settled; 2 voids not counted) |
-| Wagered Today | $2.00 (1 open bet PENDING_MANUAL) |
-| Open Bets Today | 1 |
+| Current Bankroll | $24.28 |
+| All-Time P&L | -$0.72 |
+| ROI (all-time) | -1.8% |
+| Total Bets Placed | 19 (live, all settled; 2 voids not counted) |
+| Wagered Today | $2.00 (settled) |
+| Open Bets Today | 0 |
 
-*Last updated: 2026-06-21 (results-check session — settled SFG@MIA Under 8 LOSS -$2.00 and NYM@PHI Under 7.5 LOSS -$2.00. Net today: -$4.00. Bankroll dropped from $26.24 → $22.24.)*
+*Last updated: 2026-06-22 (results-check session — settled CIN Reds ML +102 $2.00 WIN +$2.04. Net today: +$2.04. Bankroll climbed from $22.24 → $24.28. Win rate up to 47.4% (9W-10L), ROI recovered from -7.2% to -1.8%.)*
 
 ---
 
@@ -41,6 +41,7 @@
 | 2026-06-20 | PENDING | PENDING | $26.24 | Daily picks session. 2 picks: SFG@MIA Under 8 (-110) $2.00 and NYM@PHI Under 7.5 (-112) $2.00. Total at risk: $4.00. Meyer (7-0, 2.75 ERA) and Sanchez (1.46 ERA, league-best) anchoring both Unders. Edge ~10% each. Awaiting manual placement by Zack on HRB before 7:10 PM ET. |
 | 2026-06-21 | -$4.00 | -$2.76 | $22.24 | Results-check session. SFG@MIA Under 8 LOSS -$2.00 (Giants 3, Marlins 6, total 9). NYM@PHI Under 7.5 LOSS -$2.00 (Mets 3, Phillies 15, total 18 — Peralta imploded for 10 ER in 2.2 IP). Win rate drops to 44.4% (8W-10L), ROI now -7.2%. |
 | 2026-06-21 | PENDING | PENDING | $22.24 | Daily picks session. 1 pick: CIN Reds ML (+102) $2.00. Burns (8-1, 2.01 ERA) vs Rodriguez-Cruz (4.15 ERA, inexperienced), Yankees missing Judge/Stanton/Torres/Grisham. Edge +8.5%. Telegram blocked — pick sent via GitHub commit + PushNotification. Zack places manually on HRB before 1:30 PM ET. |
+| 2026-06-22 | +$2.04 | -$0.72 | $24.28 | Results-check session. Reds ML WIN +$2.04 (Reds 4-1; Burns 9-1, 8 straight wins, Stephenson 3-run HR, Rodriguez-Cruz lasted only 4+ IP). Win rate recovers to 47.4% (9W-10L). ROI recovered from -7.2% → -1.8%. Bankroll back near starting balance. |
 
 ---
 
