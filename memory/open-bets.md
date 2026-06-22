@@ -4,8 +4,12 @@ Bets placed, results pending.
 
 | Date | Game | Pick | Odds | Stake | To Win | Status |
 |------|------|------|------|-------|--------|--------|
+| 2026-06-22 | NYY @ DET (Comerica Park, 6:10 PM ET) | Under 8 | -104 | $1.50 | $1.44 | PENDING_MANUAL |
+| 2026-06-22 | CHC @ NYM (Citi Field, 7:10 PM ET) | Cubs ML | -112 | $1.25 | $1.12 | PENDING_MANUAL |
 
-**0 open bets. Total at risk: $0.00.**
+**2 open bets. Total at risk: $2.75.**
+
+**MANUAL PLACEMENT — Zack places on Hard Rock Bet by 5:30 PM ET (before 6:10 PM NYY@DET first pitch).**
 
 *(Updated after each bet is placed. Cleared to results-log.md after games finish.)*
 
@@ -20,6 +24,48 @@ Bets placed, results pending.
 - *TOR @ CHC Cubs ML (-120) $1.00 → WIN +$0.83 (Cubs 16-2, Ben Brown dominant, 7-run 1st inning)*
 - *CWS @ DET Tigers — White Sox ML (+110) $1.25 → LOSS -$1.25 (Tigers 4-3, Skubal 8 Ks, Vierling/Carpenter HRs)*
 - *MIL @ ATL Under 7.5 (-105) $1.25 → WIN +$1.19 (Braves 3-2, 5 total runs, Misiorowski + Pérez delivered)*
+
+---
+
+## Pick Reasoning (2026-06-22)
+
+### Pick 1: NYY @ DET — Under 8 (-104) — $1.50
+**Place on Hard Rock Bet: Yankees @ Tigers, Total Under 8, -104, $1.50 — GAME AT 6:10 PM ET, PLACE BY 5:30 PM**
+
+**EDGE STACK — Multiple converging factors:**
+- Gerrit Cole (2-1, 2.57 ERA, 1.05 WHIP, 18K/6BB in 22 IP) — elite ace returning to full health, among the best SPs in baseball
+- Framber Valdez (DET, 3-5, 4.09 ERA, 1.35 WHIP, 67K/32BB in 83.2 IP) — signed 3yr/$115M with Detroit; decent but allows ~4 runs per 9 innings
+- Yankees lineup SEVERELY depleted: Judge (rib stress fracture, out until August), Stanton (calf re-injury, out until July), Torres (oblique IL since June 17), Grisham (hamstring IL June 13) — 4 of their top 6 hitters unavailable
+- Tigers average only 4.1 runs per game against average pitching → vs Cole (elite), expect ~2-2.5 Tigers runs
+- Depleted Yankees offense vs Valdez → expect ~3-4 Yankees runs
+- Expected total: ~5.5-6.5 runs → solidly under 8
+- Weather: Comerica Park, 67°F, 0% rain, 15 mph wind left-to-right (mild OVER push for L-to-R at spacious Comerica — does not overcome Cole's elite suppression)
+- Comerica Park: Large, spacious outfield, not homer-friendly
+
+Implied probability at -104: 51.0% | Estimated true probability: ~58% | **Edge: +7%**
+Half-Kelly sizing: $1.75 → $1.50 (conservative)
+
+---
+
+### Pick 2: CHC @ NYM — Cubs ML (-112) — $1.25
+**Place on Hard Rock Bet: Cubs @ Mets, Cubs Moneyline, -112, $1.25 — GAME AT 7:10 PM ET, PLACE BY 6:45 PM**
+
+**EDGE STACK:**
+- Shota Imanaga (4-6, 4.26 ERA, 84 Ks) vs Kodai Senga (0-5, 9.00 ERA, 28 Ks in 24 IP, 1.95 WHIP)
+- Senga has been TERRIBLE all season — 9.00 ERA is catastrophic for an MLB starter. Even after IL stint for lumbar spine inflammation, his underlying metrics (17.28 ERA in last 3 starts before IL) suggest real deterioration
+- Cubs (40-37, better team) vs Mets (34-43, worse team) — significant team quality gap
+- FanDuel model: Cubs win probability 59.6% vs implied 52.8% at -112 → +6.8% edge
+- Weather risk: Possible rain/thunderstorms at Citi Field tonight. If game postponed → bet VOIDS (neutral, no loss). If played, Cubs have clear edge.
+- Citi Field: Not extreme weather park. Thunderstorms in forecast but game at 7:10 PM — storms may pass
+
+Implied probability at -112: 52.8% | Estimated true probability: ~57-59% | **Edge: +5-6%**
+Half-Kelly sizing: $1.19 → $1.25 (rounded)
+
+---
+
+**Total at risk today: $2.75 | Bankroll: $24.28 | Remaining daily capacity: $22.25**
+**If both win: +$2.56 → Bankroll $26.84 | If both lose: -$2.75 → Bankroll $21.53**
+**If Pick 1 wins + Pick 2 voids (rain): +$1.44 → Bankroll $25.72**
 
 ---
 

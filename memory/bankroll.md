@@ -42,6 +42,7 @@
 | 2026-06-21 | -$4.00 | -$2.76 | $22.24 | Results-check session. SFG@MIA Under 8 LOSS -$2.00 (Giants 3, Marlins 6, total 9). NYM@PHI Under 7.5 LOSS -$2.00 (Mets 3, Phillies 15, total 18 — Peralta imploded for 10 ER in 2.2 IP). Win rate drops to 44.4% (8W-10L), ROI now -7.2%. |
 | 2026-06-21 | PENDING | PENDING | $22.24 | Daily picks session. 1 pick: CIN Reds ML (+102) $2.00. Burns (8-1, 2.01 ERA) vs Rodriguez-Cruz (4.15 ERA, inexperienced), Yankees missing Judge/Stanton/Torres/Grisham. Edge +8.5%. Telegram blocked — pick sent via GitHub commit + PushNotification. Zack places manually on HRB before 1:30 PM ET. |
 | 2026-06-22 | +$2.04 | -$0.72 | $24.28 | Results-check session. Reds ML WIN +$2.04 (Reds 4-1; Burns 9-1, 8 straight wins, Stephenson 3-run HR, Rodriguez-Cruz lasted only 4+ IP). Win rate recovers to 47.4% (9W-10L). ROI recovered from -7.2% → -1.8%. Bankroll back near starting balance. |
+| 2026-06-22 | PENDING | PENDING | $24.28 | Daily picks session. 2 picks: NYY@DET Under 8 (-104) $1.50 and CHC@NYM Cubs ML (-112) $1.25. Total at risk: $2.75. Cole (2.57 ERA) vs depleted Yankees lineup → Tigers expected ~2.5 runs; Senga (0-5, 9.00 ERA) for Mets vs Cubs (40-37). Telegram blocked — picks sent via GitHub commit. Zack places on HRB by 5:30 PM ET. |
 
 ---
 
