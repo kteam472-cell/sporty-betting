@@ -309,4 +309,14 @@ Log the bet in results-log.md BEFORE placing it. If you're not willing to write 
 - **New reinforced rule — "Premium Stack" setup:** When 3 factors converge simultaneously — (1) elite ace (sub-2.50 ERA, 9+ K/9) vs. inexperienced/struggling starter, (2) opposing lineup missing 2+ key regulars to injury, (3) 80%+ public on the opponent — bet full sizing (up to $3–$4 at current bankroll) even at negative odds. This is the highest-confidence setup in the current system.
 - **Burns specifically:** Chase Burns is now 9-1 with a 2.01 ERA. The market still prices him as an underdog or slim favorite in many matchups. Continue targeting Reds ML whenever Burns starts vs. a sub-par starter, regardless of venue. His current dominance represents a genuine market inefficiency — he's still being priced as a "promising young arm" rather than an elite #1 SP.
 
+### 2026-06-22 — NYY@DET Under 8 PUSH (Total landed exactly on line)
+- **What happened:** Cole (2.57 ERA season) had an uncharacteristically bad outing — 5 ER in 4.1 IP. Tigers scored 5, depleted Yankees scored 3. Total = exactly 8. Bet on Under 8 = PUSH (stake returned).
+- **Dual lesson:** (1) Even elite pitchers have extreme outlier games — Cole's single-game ceiling blew past his 2.57 ERA substantially. (2) Whole-number totals (8, 7, 9) carry push risk when the market sets a round number — half-point lines (7.5, 8.5) avoid pushes entirely.
+- **New rule — Prefer half-point totals:** When choosing between a whole-number total (Under 8 at -104) and a half-point total (Under 7.5 at -120 or Under 8.5 at -115), factor in push risk on whole numbers. A push is neutral but wastes the opportunity cost of having capital locked in the bet. If the half-point line is priced within 15 cents of the whole-number line, prefer the half-point to eliminate push risk.
+
+### 2026-06-22 — CHC@NYM Cubs ML VOID (Rain postponement at Citi Field)
+- **What happened:** Pick reasoning explicitly flagged: "If game postponed → bet VOIDS (neutral, no loss)." The rain came and the game was postponed to a June 24 doubleheader. Exactly as modeled.
+- **Reinforce:** Correctly pricing in void risk on outdoor NE parks in June is working. Citi Field has now produced 1 postponement in this sample. Weather risk flagging is a process win even when it results in a void rather than a win.
+- **Note for future:** The Cubs-Mets makeup DH is June 24. If Senga (0-5, 9.00 ERA) is still scheduled for one of those games, re-evaluate the Cubs ML edge on that date — the underlying edge thesis (Imanaga > Senga, Cubs team quality > Mets) is still valid if starters are confirmed.
+
 *Sources: OddsShark, Sports Insights, Action Network, BetStamp, Covers.com, SportsInsights.com, academic research via Bet Labs / QuantifiedStrategies.com*

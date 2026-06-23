@@ -4,12 +4,12 @@ Bets placed, results pending.
 
 | Date | Game | Pick | Odds | Stake | To Win | Status |
 |------|------|------|------|-------|--------|--------|
-| 2026-06-22 | NYY @ DET (Comerica Park, 6:10 PM ET) | Under 8 | -104 | $1.50 | $1.44 | PENDING_MANUAL |
-| 2026-06-22 | CHC @ NYM (Citi Field, 7:10 PM ET) | Cubs ML | -112 | $1.25 | $1.12 | PENDING_MANUAL |
 
-**2 open bets. Total at risk: $2.75.**
+**0 open bets. Total at risk: $0.00.**
 
-**MANUAL PLACEMENT — Zack places on Hard Rock Bet by 5:30 PM ET (before 6:10 PM NYY@DET first pitch).**
+*Last cleared: 2026-06-23 (results-check session) — settled 2 bets from 2026-06-22:*
+- *NYY @ DET Under 8 (-104) $1.50 → PUSH $0.00 (Tigers 5, Yankees 3 — total exactly 8; Cole struggled 4.1 IP 5 ER; stake returned)*
+- *CHC @ NYM Cubs ML (-112) $1.25 → VOID $0.00 (game postponed, rain at Citi Field; makeup doubleheader June 24)*
 
 *(Updated after each bet is placed. Cleared to results-log.md after games finish.)*
 

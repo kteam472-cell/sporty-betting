@@ -11,11 +11,11 @@
 | Current Bankroll | $24.28 |
 | All-Time P&L | -$0.72 |
 | ROI (all-time) | -1.8% |
-| Total Bets Placed | 19 (live, all settled; 2 voids not counted) |
-| Wagered Today | $2.00 (settled) |
+| Total Bets Placed | 19 (live, all settled; 4 push/void not counted) |
+| Wagered Today | $0.00 (both bets neutral: 1 push, 1 void) |
 | Open Bets Today | 0 |
 
-*Last updated: 2026-06-22 (results-check session — settled CIN Reds ML +102 $2.00 WIN +$2.04. Net today: +$2.04. Bankroll climbed from $22.24 → $24.28. Win rate up to 47.4% (9W-10L), ROI recovered from -7.2% to -1.8%.)*
+*Last updated: 2026-06-23 (results-check session — settled 2 bets from 2026-06-22: NYY@DET Under 8 PUSH $0.00 (Tigers 5, Yankees 3 — total exactly 8, stake returned), CHC@NYM Cubs ML VOID $0.00 (game postponed rain). Net today: $0.00. Bankroll unchanged at $24.28. Win rate unchanged at 47.4% (9W-10L). ROI unchanged at -1.8%.)*
 
 ---
 
@@ -43,6 +43,7 @@
 | 2026-06-21 | PENDING | PENDING | $22.24 | Daily picks session. 1 pick: CIN Reds ML (+102) $2.00. Burns (8-1, 2.01 ERA) vs Rodriguez-Cruz (4.15 ERA, inexperienced), Yankees missing Judge/Stanton/Torres/Grisham. Edge +8.5%. Telegram blocked — pick sent via GitHub commit + PushNotification. Zack places manually on HRB before 1:30 PM ET. |
 | 2026-06-22 | +$2.04 | -$0.72 | $24.28 | Results-check session. Reds ML WIN +$2.04 (Reds 4-1; Burns 9-1, 8 straight wins, Stephenson 3-run HR, Rodriguez-Cruz lasted only 4+ IP). Win rate recovers to 47.4% (9W-10L). ROI recovered from -7.2% → -1.8%. Bankroll back near starting balance. |
 | 2026-06-22 | PENDING | PENDING | $24.28 | Daily picks session. 2 picks: NYY@DET Under 8 (-104) $1.50 and CHC@NYM Cubs ML (-112) $1.25. Total at risk: $2.75. Cole (2.57 ERA) vs depleted Yankees lineup → Tigers expected ~2.5 runs; Senga (0-5, 9.00 ERA) for Mets vs Cubs (40-37). Telegram blocked — picks sent via GitHub commit. Zack places on HRB by 5:30 PM ET. |
+| 2026-06-23 | $0.00 | -$0.72 | $24.28 | Results-check session. NYY@DET Under 8 PUSH (Tigers 5, Yankees 3 — total exactly 8; Cole uncharacteristically struggled with 5 ER in 4.1 IP). CHC@NYM Cubs ML VOID (rain postponement at Citi Field; makeup DH June 24). Net $0.00. Both neutral outcomes. Bankroll unchanged. |
 
 ---
 
