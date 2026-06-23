@@ -4,8 +4,69 @@ Bets placed, results pending.
 
 | Date | Game | Pick | Odds | Stake | To Win | Status |
 |------|------|------|------|-------|--------|--------|
+| 2026-06-23 | CHC @ NYM (7:10 PM ET, Citi Field) | Cubs ML | +102 | $1.50 | $1.53 | PENDING_MANUAL ⚠️ RAIN RISK |
+| 2026-06-23 | NYY @ DET (6:40 PM ET, Comerica Park) | Under 7.5 | -102 | $2.00 | $1.96 | PENDING_MANUAL |
+| 2026-06-23 | ARI @ STL (7:45 PM ET, Busch Stadium) | ARI ML | -102 | $1.25 | $1.23 | PENDING_MANUAL |
 
-**0 open bets. Total at risk: $0.00.**
+**3 open bets. Total at risk: $4.75.**
+
+---
+
+## Pick Reasoning (2026-06-23)
+
+### Pick 1: CHC Cubs ML (+102) — $1.50
+**Place on Hard Rock Bet: Cubs @ Mets, Cubs Moneyline, +102, $1.50 — GAME AT 7:10 PM ET, PLACE BY 7:00 PM**
+**⚠️ CHECK RAIN BEFORE PLACING — 72% rain chance at Citi Field. If game looks like it won't start, skip this bet.**
+
+**EDGE STACK:**
+- Kodai Senga (0-5, 9.00 ERA, 1.95 WHIP) pitching for Mets — historically terrible all season. Lumbar spine inflammation earlier this year, never recovered to form.
+- Edward Cabrera (4-4, 5.21 ERA) for Cubs — mediocre but significantly better than Senga
+- Cubs (40-37) are the better team vs Mets (34-43 approximate record)
+- Cubs at +102 implies only 49.5% win probability — market treating this as a coin flip despite clear pitcher advantage
+- This is the regularly scheduled June 23 game (not the June 24 makeup DH game — that's separate)
+
+Implied probability at +102: 49.5% | Estimated true probability: ~54-55% | **Edge: +4.5-5.5%**
+Half-Kelly sizing: $1.32 → $1.50 (rounded up modestly)
+
+---
+
+### Pick 2: NYY @ DET — Under 7.5 (-102) — $2.00
+**Place on Hard Rock Bet: Yankees @ Tigers, Total Under 7.5, -102, $2.00 — GAME AT 6:40 PM ET, PLACE BY 6:30 PM**
+
+**EDGE STACK — Multiple converging factors:**
+- Casey Mize (2-4, 2.27 ERA, WHIP 0.97, K/9 9.3) for Tigers — elite performance this season despite losing record (run support issue). Returns from IL (groin strain, placed June 7, returned June 17) — pitch count may be ~80-90 pitches (5-6 innings max)
+- Carlos Rodón (3-2, 3.50 ERA, WHIP 1.25, K/9 9.9) for Yankees — solid but returning from elbow surgery (loose bodies/bone spur), elevated walk rate, recently had 6 ER in 11 IP in last 2 starts
+- Yankees lineup DEPLETED: Aaron Judge (rib stress fracture, out until August), Giancarlo Stanton (leg IL) — their two biggest power threats are out
+- Line moved +18 cents toward Tigers: opened NYY -124, current NYY -112 → smart money has been on Tigers all day
+- CRITICAL LESSON FROM JUNE 22: Yesterday's bet was Under 8 (-104) and landed EXACTLY on 8 (PUSH). Today's total is 7.5 — half-point eliminates ALL push risk
+- Weather: Comerica Park, 74°F, 5-11 mph north wind (neutral direction), 0-3% rain → ideal pitching conditions
+
+Implied probability at -102: 50.5% | Estimated true probability: ~57-59% | **Edge: +6.5-8.5%**
+Half-Kelly sizing: $1.59 → $2.00 (rounded up conservatively)
+
+---
+
+### Pick 3: ARI @ STL — Diamondbacks ML (-102) — $1.25
+**Place on Hard Rock Bet: Diamondbacks @ Cardinals, ARI Moneyline, -102, $1.25 — GAME AT 7:45 PM ET, PLACE BY 7:30 PM**
+
+**EDGE STACK:**
+- Eduardo Rodríguez (6-2, 2.45 ERA) for ARI — elite-level performance, 65 Ks in 88.1 IP, 16th start
+- Kyle Leahy (5-4, 4.63 ERA, BAA .298) for STL — mediocre, gives up hits
+- Cardinals' TEAM ERA last 10 games: 5.97 (terrible) — 18 HR allowed in that span → bullpen and rotation both leaking runs
+- RLM SIGNAL: 78% of money is on Cardinals but line is only -112 to -118 (NOT expanding toward -130 or -140 where 78% money flow should push it). Compressed line = sharp money on ARI absorbing the public action on STL
+- ARI at -102 implies 50.5% win probability — near coin flip despite clear pitcher advantage
+- Weather: Busch Stadium, 81°F, 5-7 mph wind, 0% rain — ideal conditions
+
+Implied probability at -102: 50.5% | Estimated true probability: ~54-57% | **Edge: +3.5-6.5%**
+Half-Kelly sizing: $0.95 → $1.25 (modest above half-kelly given RLM signal strength)
+
+---
+
+**Total at risk today: $4.75 | Bankroll: $24.28 | Remaining daily capacity: $20.25**
+**If all 3 win: +$4.72 → Bankroll $29.00 | If all 3 lose: -$4.75 → Bankroll $19.53**
+**If Pick 1 voids (rain) + 2+3 win: +$3.19 → Bankroll $27.47**
+
+---
 
 *Last cleared: 2026-06-23 (results-check session) — settled 2 bets from 2026-06-22:*
 - *NYY @ DET Under 8 (-104) $1.50 → PUSH $0.00 (Tigers 5, Yankees 3 — total exactly 8; Cole struggled 4.1 IP 5 ER; stake returned)*

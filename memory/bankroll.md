@@ -12,8 +12,8 @@
 | All-Time P&L | -$0.72 |
 | ROI (all-time) | -1.8% |
 | Total Bets Placed | 19 (live, all settled; 4 push/void not counted) |
-| Wagered Today | $0.00 (both bets neutral: 1 push, 1 void) |
-| Open Bets Today | 0 |
+| Wagered Today | $4.75 (3 picks placed: CHC ML $1.50, NYY@DET Under $2.00, ARI ML $1.25) |
+| Open Bets Today | 3 (all PENDING_MANUAL) |
 
 *Last updated: 2026-06-23 (results-check session — settled 2 bets from 2026-06-22: NYY@DET Under 8 PUSH $0.00 (Tigers 5, Yankees 3 — total exactly 8, stake returned), CHC@NYM Cubs ML VOID $0.00 (game postponed rain). Net today: $0.00. Bankroll unchanged at $24.28. Win rate unchanged at 47.4% (9W-10L). ROI unchanged at -1.8%.)*
 
@@ -44,6 +44,7 @@
 | 2026-06-22 | +$2.04 | -$0.72 | $24.28 | Results-check session. Reds ML WIN +$2.04 (Reds 4-1; Burns 9-1, 8 straight wins, Stephenson 3-run HR, Rodriguez-Cruz lasted only 4+ IP). Win rate recovers to 47.4% (9W-10L). ROI recovered from -7.2% → -1.8%. Bankroll back near starting balance. |
 | 2026-06-22 | PENDING | PENDING | $24.28 | Daily picks session. 2 picks: NYY@DET Under 8 (-104) $1.50 and CHC@NYM Cubs ML (-112) $1.25. Total at risk: $2.75. Cole (2.57 ERA) vs depleted Yankees lineup → Tigers expected ~2.5 runs; Senga (0-5, 9.00 ERA) for Mets vs Cubs (40-37). Telegram blocked — picks sent via GitHub commit. Zack places on HRB by 5:30 PM ET. |
 | 2026-06-23 | $0.00 | -$0.72 | $24.28 | Results-check session. NYY@DET Under 8 PUSH (Tigers 5, Yankees 3 — total exactly 8; Cole uncharacteristically struggled with 5 ER in 4.1 IP). CHC@NYM Cubs ML VOID (rain postponement at Citi Field; makeup DH June 24). Net $0.00. Both neutral outcomes. Bankroll unchanged. |
+| 2026-06-23 | PENDING | PENDING | $24.28 | Daily picks session. 3 picks: CHC Cubs ML +102 ($1.50), NYY@DET Under 7.5 -102 ($2.00), ARI ML -102 ($1.25). Total at risk: $4.75. Key edges: Senga (9.00 ERA) vs Cubs, Mize (2.27 ERA) + depleted Yankees, E. Rodriguez (2.45 ERA) + RLM signal on ARI. Pick 1 has rain risk at Citi Field (72%). Telegram blocked — sending via GitHub commit. Zack places on HRB by game times. |
 
 ---
 
