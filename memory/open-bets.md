@@ -4,11 +4,62 @@ Bets placed, results pending.
 
 | Date | Game | Pick | Odds | Stake | To Win | Status |
 |------|------|------|------|-------|--------|--------|
-| 2026-06-23 | CHC @ NYM (7:10 PM ET, Citi Field) | Cubs ML | +102 | $1.50 | $1.53 | PENDING_MANUAL ⚠️ RAIN RISK |
-| 2026-06-23 | NYY @ DET (6:40 PM ET, Comerica Park) | Under 7.5 | -102 | $2.00 | $1.96 | PENDING_MANUAL |
-| 2026-06-23 | ARI @ STL (7:45 PM ET, Busch Stadium) | ARI ML | -102 | $1.25 | $1.23 | PENDING_MANUAL |
+| 2026-06-29 | NYM @ TOR (7:07 PM ET, Rogers Centre, dome) | TOR Blue Jays ML | -128 | $2.00 | $1.56 | PENDING_MANUAL |
+| 2026-06-29 | LAA @ SEA (9:40 PM ET, T-Mobile Park, retractable roof) | SEA Mariners ML | -220 | $3.50 | $1.59 | PENDING_MANUAL |
 
-**3 open bets. Total at risk: $4.75.**
+**2 open bets. Total at risk: $5.50.**
+
+---
+
+## Pick Reasoning (2026-06-29)
+
+### Pick 1: NYM @ TOR — Blue Jays ML (-128) — $2.00
+**Place on Hard Rock Bet: Mets @ Blue Jays, Toronto Moneyline, -128, $2.00 — GAME AT 7:07 PM ET, PLACE BY 7:00 PM**
+**Rogers Centre = dome, no weather concern**
+
+**EDGE STACK:**
+- Trey Yesavage (TOR, 3-3, **3.56 ERA**, last 10 starts: 5-2, 3.13 ERA) — confirmed starter, in-form
+- Sean Manaea (NYM, **5.08 ERA**) — struggling significantly, ERA 1.5 runs above Yesavage
+- Rogers Centre home field advantage for TOR
+- Mets lineup: NYM has been underperforming team (~34-43 when we tracked them)
+- BetMGM/FanDuel show TOR -126 to -130 — market priced as slight TOR favorites
+- Pattern mirrors: RLM fades of struggling pitchers at modest juice → proven edge source
+
+Implied probability at -128: 56.1% | Estimated true probability: ~62% | **Edge: +5.9%**
+Half-Kelly sizing: 6.65% × $29 = $1.93 → **$2.00**
+
+---
+
+### Pick 2: LAA @ SEA — Mariners ML (-220) — $3.50
+**Place on Hard Rock Bet: Angels @ Mariners, Seattle Moneyline, -220, $3.50 — GAME AT 9:40 PM ET, PLACE BY 9:30 PM**
+**T-Mobile Park = retractable roof, no weather concern**
+
+**EDGE STACK:**
+- George Kirby (SEA, 6-7, **3.94 ERA**) at home — legitimate #2-3 starter quality, T-Mobile Park suppresses scoring
+- Ryan Johnson (LAA, 1-2, **8.84 ERA**) — catastrophically bad, one of the worst ERAs in the league; getting shelled in every outing
+- SP quality gap is among the largest in today's slate: ~5 ERA points difference
+- T-Mobile Park: pitcher-friendly, retractable roof = controlled conditions
+- SEA at home with clear ace advantage vs terrible road starter
+- Largest SP quality differential across all June 29 games
+
+Implied probability at -220: 68.75% | Estimated true probability: ~77-78% | **Edge: ~9%**
+Half-Kelly sizing: 13.2% × $29 = $3.83 → **$3.50** (slight underbet for caution)
+
+---
+
+**Total at risk today: $5.50 | Bankroll: $29.00 | Remaining daily capacity: $19.50**
+**If both win: +$3.15 → Bankroll $32.15 | If both lose: -$5.50 → Bankroll $23.50**
+**If only Pick 1 wins: +$1.56 - $3.50 = -$1.94 → Bankroll $27.06**
+**If only Pick 2 wins: +$1.59 - $2.00 = -$0.41 → Bankroll $28.59**
+
+**SKIPPED — NYY ML -142 (DET@NYY, Weathers hot vs Mize cold):** NumberFire model shows NYY at 58.61% vs implied 58.7% at -142 = ~0% edge in market. 71% thunderstorm risk at Yankee Stadium 5-8 PM with 7:05 PM first pitch adds postponement uncertainty. Skipping: edge not clear enough above our 3% minimum threshold.
+
+---
+
+*Last cleared: 2026-06-29 — settled 3 bets from 2026-06-23:*
+- *CHC Cubs @ NYM Mets — Cubs ML (+102) $1.50 → WIN +$1.53 (Cubs 9-6; Senga roughed up as modeled)*
+- *NYY Yankees @ DET Tigers — Under 7.5 (-102) $2.00 → WIN +$1.96 (Yankees 4-3; total=7, under 7.5; half-point line eliminated push risk)*
+- *ARI Diamondbacks @ STL Cardinals — ARI ML (-102) $1.25 → WIN +$1.23 (ARI 4-3; E. Rodriguez 6.2 IP 0 ER; 9th-inning rally; RLM signal confirmed)*
 
 ---
 

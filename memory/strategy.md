@@ -319,4 +319,12 @@ Log the bet in results-log.md BEFORE placing it. If you're not willing to write 
 - **Reinforce:** Correctly pricing in void risk on outdoor NE parks in June is working. Citi Field has now produced 1 postponement in this sample. Weather risk flagging is a process win even when it results in a void rather than a win.
 - **Note for future:** The Cubs-Mets makeup DH is June 24. If Senga (0-5, 9.00 ERA) is still scheduled for one of those games, re-evaluate the Cubs ML edge on that date — the underlying edge thesis (Imanaga > Senga, Cubs team quality > Mets) is still valid if starters are confirmed.
 
+### 2026-06-23 — 3-Pick Sweep (+$4.72): Cubs ML, NYY@DET Under 7.5, ARI ML
+- **CHC Cubs ML (+102) WIN:** Senga (0-5, 9.00 ERA) was exploitable again — Cubs won 9-6. The "exploitable struggling starter" pattern continues to produce. Third time we've faded Senga and the edge was real every time.
+- **NYY@DET Under 7.5 (-102) WIN:** Yankees 4, Tigers 3 (total=7). The half-point total lesson from June 22 (PUSH on Under 8) was applied immediately — moved down to 7.5 and it landed cleanly under. Rodon won but Mize gave up 4 ER and the depleted Yankees offense limited scoring.
+- **ARI ML (-102) WIN:** Eduardo Rodriguez delivered a gem (6.2 IP, 0 ER) and Arizona rallied in the 9th. RLM signal (78% public on STL but compressed line) was correct — sharp money on ARI was right.
+- **Reinforced rule — Senga/exploitable ERA starters:** Kodai Senga (9.00 ERA, 1.95 WHIP) has now been the exploited starter in multiple Cubs wins. Until proven otherwise, fade Senga whenever he starts.
+- **Reinforced rule — Half-point totals vs whole-number:** Choosing 7.5 instead of 8 after the June 22 PUSH was the correct application of the new rule. Always prefer half-point when within 15 cents of whole-number line.
+- **Reinforced rule — RLM on condensed-line spots:** The ARI bet where 78% public backed STL but the line didn't expand is now confirmed a second time as an RLM spot. Compressed lines vs one-sided public action = sharp fade signal.
+
 *Sources: OddsShark, Sports Insights, Action Network, BetStamp, Covers.com, SportsInsights.com, academic research via Bet Labs / QuantifiedStrategies.com*

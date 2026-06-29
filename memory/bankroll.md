@@ -8,14 +8,14 @@
 | Field | Value |
 |-------|-------|
 | Starting Bankroll | $25.00 |
-| Current Bankroll | $24.28 |
-| All-Time P&L | -$0.72 |
-| ROI (all-time) | -1.8% |
-| Total Bets Placed | 19 (live, all settled; 4 push/void not counted) |
-| Wagered Today | $4.75 (3 picks placed: CHC ML $1.50, NYY@DET Under $2.00, ARI ML $1.25) |
-| Open Bets Today | 3 (all PENDING_MANUAL) |
+| Current Bankroll | $29.00 |
+| All-Time P&L | +$4.00 |
+| ROI (all-time) | +8.8% |
+| Total Bets Placed | 22 (live, all settled; 4 push/void not counted) |
+| Wagered Today | $5.50 (2 picks placed: SEA ML $3.50, TOR ML $2.00) |
+| Open Bets Today | 2 (all PENDING_MANUAL) |
 
-*Last updated: 2026-06-23 (results-check session — settled 2 bets from 2026-06-22: NYY@DET Under 8 PUSH $0.00 (Tigers 5, Yankees 3 — total exactly 8, stake returned), CHC@NYM Cubs ML VOID $0.00 (game postponed rain). Net today: $0.00. Bankroll unchanged at $24.28. Win rate unchanged at 47.4% (9W-10L). ROI unchanged at -1.8%.)*
+*Last updated: 2026-06-29 (daily-picks session — settled 3 bets from 2026-06-23: CHC Cubs ML +102 WIN +$1.53 (Cubs 9-6 Mets), NYY@DET Under 7.5 -102 WIN +$1.96 (Yankees 4-3 Tigers, total=7), ARI ML -102 WIN +$1.23 (ARI 4-3 Cardinals). Net June 23: +$4.72. Bankroll $24.28 → $29.00. Win rate now 54.5% (12W-10L). ROI now +8.8%. 3-pick sweep — all three edges confirmed.)*
 
 ---
 
@@ -44,7 +44,8 @@
 | 2026-06-22 | +$2.04 | -$0.72 | $24.28 | Results-check session. Reds ML WIN +$2.04 (Reds 4-1; Burns 9-1, 8 straight wins, Stephenson 3-run HR, Rodriguez-Cruz lasted only 4+ IP). Win rate recovers to 47.4% (9W-10L). ROI recovered from -7.2% → -1.8%. Bankroll back near starting balance. |
 | 2026-06-22 | PENDING | PENDING | $24.28 | Daily picks session. 2 picks: NYY@DET Under 8 (-104) $1.50 and CHC@NYM Cubs ML (-112) $1.25. Total at risk: $2.75. Cole (2.57 ERA) vs depleted Yankees lineup → Tigers expected ~2.5 runs; Senga (0-5, 9.00 ERA) for Mets vs Cubs (40-37). Telegram blocked — picks sent via GitHub commit. Zack places on HRB by 5:30 PM ET. |
 | 2026-06-23 | $0.00 | -$0.72 | $24.28 | Results-check session. NYY@DET Under 8 PUSH (Tigers 5, Yankees 3 — total exactly 8; Cole uncharacteristically struggled with 5 ER in 4.1 IP). CHC@NYM Cubs ML VOID (rain postponement at Citi Field; makeup DH June 24). Net $0.00. Both neutral outcomes. Bankroll unchanged. |
-| 2026-06-23 | PENDING | PENDING | $24.28 | Daily picks session. 3 picks: CHC Cubs ML +102 ($1.50), NYY@DET Under 7.5 -102 ($2.00), ARI ML -102 ($1.25). Total at risk: $4.75. Key edges: Senga (9.00 ERA) vs Cubs, Mize (2.27 ERA) + depleted Yankees, E. Rodriguez (2.45 ERA) + RLM signal on ARI. Pick 1 has rain risk at Citi Field (72%). Telegram blocked — sending via GitHub commit. Zack places on HRB by game times. |
+| 2026-06-23 | +$4.72 | +$4.00 | $29.00 | All 3 picks WIN. CHC Cubs ML +102 WIN +$1.53 (Cubs 9-6 Mets, Senga roughed up). NYY@DET Under 7.5 WIN +$1.96 (Yankees 4-3 Tigers, total=7, well under line). ARI ML -102 WIN +$1.23 (ARI 4-3 Cardinals, Rodriguez gem 6.2 IP 0 ER, 9th-inning rally). 3-pick sweep. |
+| 2026-06-29 | PENDING | PENDING | $29.00 | Daily picks session. 2 picks: SEA Mariners ML -220 ($3.50) and TOR Blue Jays ML -128 ($2.00). Total at risk: $5.50. Kirby (3.94 ERA) vs Johnson (8.84 ERA) and Yesavage (3.56 ERA) vs Manaea (5.08 ERA). Telegram blocked — sending via GitHub commit. Zack places on HRB before game times. |
 
 ---
 
